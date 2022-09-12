@@ -11,4 +11,4 @@ Please give this repo a ⭐ if you like it. Thanks. 😊
 | # | Problem Title | Difficulty | Solution |
 |---|---------------|------------|----------|
 | 1 | Two Sum       |     🟢     | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1.%20Two_Sum) |
-
+| 1 | Add Two Numbers |     🟡     | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2.%20Add%20Two%20Numbers) |
