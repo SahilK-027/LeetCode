@@ -13,3 +13,4 @@ Please give this repo a ⭐ if you like it. Thanks. 😊
 | 1 | Two Sum       | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1.%20Two_Sum) |
 | 2 | Add Two Numbers | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2.%20Add%20Two%20Numbers) |
 | 3 | Median of Two Sorted Arrays | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/4.%20Median%20of%20Two%20Sorted%20Arrays) |
+| 7 | Reverse Integer | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/7.%20Reverse%20Integer) |
