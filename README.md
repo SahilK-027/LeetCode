@@ -16,3 +16,4 @@ Please give this repo a ⭐ if you like it. Thanks. 😊
 | 7 | Reverse Integer | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/7.%20Reverse%20Integer) |
 | 9 | Palindrome Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/9.%20Palindrome%20Number)|
 | 11 | Container With Most Water | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/11.%20Container%20With%20Most%20Water)|
+| 13 | Roman to Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/13.%20Roman%20to%20Integer)|
