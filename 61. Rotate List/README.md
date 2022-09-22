@@ -1,27 +1,21 @@
-# Two Sum
+# Rotate List
 ## Description
 
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
-You can return the answer in any order.
+Given the head of a linked list, rotate the list to the right by k places.
 
  
 
 Example 1:
+
+![alt](https://assets.leetcode.com/uploads/2020/11/13/rotate1.jpg)
 ```
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+Input: head = [1,2,3,4,5], k = 2
+Output: [4,5,1,2,3]
 ```
 Example 2:
-```
-Input: nums = [3,2,4], target = 6
-Output: [1,2]
-```
-Example 3:
-```
-Input: nums = [3,3], target = 6
-Output: [0,1]
-```
 
-Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+![alt](https://assets.leetcode.com/uploads/2020/11/13/roate2.jpg)
+```
+Input: head = [0,1,2], k = 4
+Output: [2,0,1]
+```
