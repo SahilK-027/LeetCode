@@ -22,3 +22,4 @@ Please give this repo a ⭐ if you like it. Thanks. 😊
 | 20 | Valid Parentheses | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/20.%20Valid%20Parentheses)|
 | 21 | Merge Two Sorted Lists | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/21.%20Merge%20Two%20Sorted%20Lists)|
 | 23 | Merge k Sorted Lists | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/23.%20Merge%20k%20Sorted%20Lists)|
+| 24 | Swap Nodes in Pairs | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/24.%20Swap%20Nodes%20in%20Pairs)|
