@@ -4,6 +4,7 @@
 
 Please give this repo a ⭐ if you like it. Thanks. 😊
 
+[![Travis](https://img.shields.io/badge/language-C++-red.svg)](https://developer.apple.com/)
 ```diff
 @@ PROBLEMS SOLVED SO FAR ... @@
 ```
