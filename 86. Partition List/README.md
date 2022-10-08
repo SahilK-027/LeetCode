@@ -1,27 +1,20 @@
-# Two Sum
+# Partition List
 ## Description
 
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
-You can return the answer in any order.
+Given the head of a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.
 
- 
+You should preserve the original relative order of the nodes in each of the two partitions.
+
 
 Example 1:
+
+![alt](https://assets.leetcode.com/uploads/2021/01/04/partition.jpg)
 ```
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+Input: head = [1,4,3,2,5,2], x = 3
+Output: [1,2,2,4,3,5]
 ```
 Example 2:
 ```
-Input: nums = [3,2,4], target = 6
+Input: head = [2,1], x = 2
 Output: [1,2]
 ```
-Example 3:
-```
-Input: nums = [3,3], target = 6
-Output: [0,1]
-```
-
-Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
