@@ -1,27 +1,20 @@
-# Two Sum
+# Find the Index of the First Occurrence in a String
 ## Description
 
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
-You can return the answer in any order.
+Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
  
 
 Example 1:
 ```
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+Input: haystack = "sadbutsad", needle = "sad"
+Output: 0
+Explanation: "sad" occurs at index 0 and 6.
+The first occurrence is at index 0, so we return 0.
 ```
 Example 2:
 ```
-Input: nums = [3,2,4], target = 6
-Output: [1,2]
+Input: haystack = "leetcode", needle = "leeto"
+Output: -1
+Explanation: "leeto" did not occur in "leetcode", so we return -1.
 ```
-Example 3:
-```
-Input: nums = [3,3], target = 6
-Output: [0,1]
-```
-
-Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
