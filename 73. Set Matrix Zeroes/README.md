@@ -1,22 +1,24 @@
-# Two Sum
+# Set Matrix Zeroes
 ## Description
+Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
 
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
-You can return the answer in any order.
+You must do it in place.
 
  
 
 Example 1:
+
+![alt](https://assets.leetcode.com/uploads/2020/08/17/mat1.jpg)
 ```
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+Input: matrix = [[1,1,1],[1,0,1],[1,1,1]]
+Output: [[1,0,1],[0,0,0],[1,0,1]]
 ```
 Example 2:
+
+![alt](https://assets.leetcode.com/uploads/2020/08/17/mat2.jpg)
 ```
-Input: nums = [3,2,4], target = 6
-Output: [1,2]
+Input: matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]]
+Output: [[0,0,0,0],[0,4,5,0],[0,3,1,0]]
 ```
 Example 3:
 ```
@@ -24,4 +26,8 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 
-Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+Follow up:
+
+- A straightforward solution using O(mn) space is probably a bad idea.
+- A simple improvement uses O(m + n) space, but still not the best solution.
+- Could you devise a constant space solution?
