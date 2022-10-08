@@ -1,27 +1,18 @@
-# Two Sum
+# Construct Binary Tree from Preorder and Inorder Traversal
 ## Description
 
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
-You can return the answer in any order.
+Given two integer arrays preorder and inorder where preorder is the preorder traversal of a binary tree and inorder is the inorder traversal of the same tree, construct and return the binary tree.
 
- 
 
 Example 1:
+
+![alt](https://assets.leetcode.com/uploads/2021/02/19/tree.jpg)
 ```
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+Input: preorder = [3,9,20,15,7], inorder = [9,3,15,20,7]
+Output: [3,9,20,null,null,15,7]
 ```
 Example 2:
 ```
-Input: nums = [3,2,4], target = 6
-Output: [1,2]
+Input: preorder = [-1], inorder = [-1]
+Output: [-1]
 ```
-Example 3:
-```
-Input: nums = [3,3], target = 6
-Output: [0,1]
-```
-
-Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
