@@ -1,27 +1,29 @@
-# Two Sum
+# Balanced Binary Tree
 ## Description
 
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
-You can return the answer in any order.
+Given a binary tree, determine if it is height-balanced.
 
+For this problem, a height-balanced binary tree is defined as:
+
+a binary tree in which the left and right subtrees of every node differ in height by no more than 1.
  
 
 Example 1:
+
+![alt](https://assets.leetcode.com/uploads/2020/10/06/balance_1.jpg)
 ```
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+Input: root = [3,9,20,null,null,15,7]
+Output: true
 ```
 Example 2:
+
+![alt](https://assets.leetcode.com/uploads/2020/10/06/balance_2.jpg)
 ```
-Input: nums = [3,2,4], target = 6
-Output: [1,2]
+Input: root = [1,2,2,3,3,null,null,4,4]
+Output: false
 ```
 Example 3:
 ```
-Input: nums = [3,3], target = 6
-Output: [0,1]
+Input: root = []
+Output: true
 ```
-
-Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
