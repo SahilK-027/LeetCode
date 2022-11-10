@@ -7,14 +7,15 @@ Given an integer array nums where the elements are sorted in ascending order, co
 
 Example 1:
 
-![alt](https://assets.leetcode.com/uploads/2021/02/18/btree1.jpg)
+![alt](https://assets.leetcode.com/uploads/2021/02/18/btree1.jpg) 
+![alt](https://assets.leetcode.com/uploads/2021/02/18/btree2.jpg)
 ```
 Input: nums = [-10,-3,0,5,9]
 Output: [0,-3,9,-10,null,5]
 Explanation: [0,-10,5,null,-3,null,9] is also accepted:
 
-![alt](https://assets.leetcode.com/uploads/2021/02/18/btree2.jpg)
 ```
+
 Example 2:
 
 ![alt](https://assets.leetcode.com/uploads/2021/02/18/btree.jpg)
