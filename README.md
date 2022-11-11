@@ -49,6 +49,7 @@ solutions main(logic)
 | 27 | Remove Element | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/27.%20Remove%20Elementy)|
 | 28 | Find the Index of the First Occurrence in a String | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)|
 | 33 | Search in Rotated Sorted Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/33.%20Search%20in%20Rotated%20Sorted%20Array)|
+| 34 | Find First and Last Position of Element in Sorted Array | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)|
 | 35 | Search Insert Position | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/35.%20Search%20Insert%20Position)|
 | 42 | Trapping Rain Water | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/42.%20Trapping%20Rain%20Water)|
 | 46 | Permutations | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/46.%20Permutations)|
