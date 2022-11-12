@@ -98,6 +98,7 @@ solutions main(logic)
 | 148 | Sort List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/148.%20Sort%20List)|
 | 153 | Find Minimum in Rotated Sorted Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)|
 | 160 | Intersection of Two Linked Lists | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/160.%20Intersection%20of%20Two%20Linked%20Lists)|
+| 162 | Find Peak Element | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/162.%20Find%20Peak%20Element)|
 | 167 | Two Sum II - Input Array Is Sorted | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)|
 | 189 | Rotate Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/189.%20Rotate%20Array)|
 | 191 | Number of 1 Bits | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/191.%20Number%20of%201%20Bits)|
