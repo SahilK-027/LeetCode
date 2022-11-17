@@ -107,6 +107,7 @@ solutions main(logic)
 | 203 | Remove Linked List Elements | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/203.%20Remove%20Linked%20List%20Elements)|
 | 204 | Count Primes | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/204.%20Count%20Primes)|
 | 206 | Reverse Linked List | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/206.%20Reverse%20Linked%20List)|
+| 208 | Implement Trie (Prefix Tree) | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/208.%20Implement%20Trie%20(Prefix%20Tree))|
 | 215 | Kth Largest Element in an Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/215.%20Kth%20Largest%20Element%20in%20an%20Array)|
 | 217 | Contains Duplicate | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/217.%20Contains%20Duplicate)|
 | 222 | Count Complete Tree Nodes | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/222.%20Count%20Complete%20Tree%20Nodes)|
