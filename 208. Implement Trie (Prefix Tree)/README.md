@@ -13,6 +13,7 @@ Implement the Trie class:
 
 Example 1:
 
+```
 Input
 ["Trie", "insert", "search", "search", "startsWith", "insert", "search"]
 [[], ["apple"], ["apple"], ["app"], ["app"], ["app"], ["app"]]
