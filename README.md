@@ -39,6 +39,7 @@ solutions main(logic)
 | 11 | Container With Most Water | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/11.%20Container%20With%20Most%20Water)|
 | 13 | Roman to Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/13.%20Roman%20to%20Integer)|
 | 14 | Longest Common Prefix | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/14.%20Longest%20Common%20Prefix)|
+| 15 | 3Sum | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/15.%203Sum)|
 | 17 | Letter Combinations of a Phone Number | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)|
 | 19 | Remove Nth Node From End of List | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)|
 | 20 | Valid Parentheses | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/20.%20Valid%20Parentheses)|
