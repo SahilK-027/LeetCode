@@ -171,7 +171,7 @@ solutions main(logic)
 | 1038 | Binary Search Tree to Greater Sum Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree)|
 | 1047 | Remove All Adjacent Duplicates In String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|
 | 1207 | Unique Number of Occurrences | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1207.%20Unique%20Number%20of%20Occurrences)|
-| 1281 | Subtract the Product and Sum of Digits of an Integer | 🟢 | [solution]()|
+| 1281 | Subtract the Product and Sum of Digits of an Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)|
 | 1290 | Convert Binary Number in a Linked List to Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)|
 | 1325 | Delete Leaves With a Given Value | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1325.%20Delete%20Leaves%20With%20a%20Given%20Value)|
 | 1373 | Maximum Sum BST in Binary Tree | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree)|
