@@ -56,7 +56,7 @@ solutions main(logic)
 | 42 | Trapping Rain Water | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/42.%20Trapping%20Rain%20Water)|
 | 46 | Permutations | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/46.%20Permutations)|
 | 48 | Rotate Image | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/48.%20Rotate%20Image)|
-| 48 | Group Anagram | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/49.%20Group%20Anagrams)|
+| 49 | Group Anagram | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/49.%20Group%20Anagrams)|
 | 50 | Pow(x, n) | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/50.%20Pow(x%2C%20n))|
 | 54 | Spiral Matrix | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/54.%20Spiral%20Matrix)|
 | 59 | Spiral Matrix II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/59.%20Spiral%20Matrix%20II)|
