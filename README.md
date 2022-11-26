@@ -143,6 +143,7 @@ solutions main(logic)
 | 445 | Add Two Numbers II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/445.%20Add%20Two%20Numbers%20II)|
 | 450 | Delete Node in a BST | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/450.%20Delete%20Node%20in%20a%20BST)|
 | 496 | Next Greater Element I | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/496.%20Next%20Greater%20Element%20I)|
+| 506 | Relative Ranks | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/506.%20Relative%20Ranks)|
 | 509 | Fibonacci Number | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/509.%20Fibonacci%20Number)|
 | 513 | Find Bottom Left Tree Value | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/513.%20Find%20Bottom%20Left%20Tree%20Value)|
 | 515 | Find Largest Value in Each Tree Row | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)|
