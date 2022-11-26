@@ -59,6 +59,7 @@ solutions main(logic)
 | 49 | Group Anagram | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/49.%20Group%20Anagrams)|
 | 50 | Pow(x, n) | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/50.%20Pow(x%2C%20n))|
 | 54 | Spiral Matrix | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/54.%20Spiral%20Matrix)|
+| 58 | Length of Last Word | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/58.%20Length%20of%20Last%20Word)|
 | 59 | Spiral Matrix II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/59.%20Spiral%20Matrix%20II)|
 | 61 | Rotate List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/61.%20Rotate%20List)|
 | 66 | Plus One | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/66.%20Plus%20One)|
