@@ -1,7 +1,8 @@
 # LeetCode
 
-## C++ Code for LeetCode
+## C++ solutions for LeetCode
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/sahil_k_027?ext=activity)
 
 ```cpp
 
@@ -26,7 +27,7 @@ solutions main(logic)
 
 [![Travis](https://img.shields.io/badge/language-C++-red.svg)](https://developer.apple.com/)
 ```diff
-@@  Number of Problems Solved So Far : 167... @@
+@@  Problems Solved So Far,... @@
 ```
 
 | # | Problem Title | Difficulty | Solution |
