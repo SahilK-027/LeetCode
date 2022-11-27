@@ -2,6 +2,7 @@
 
 ## C++ Code for LeetCode
 
+
 ```cpp
 
 /**
@@ -25,7 +26,7 @@ solutions main(logic)
 
 [![Travis](https://img.shields.io/badge/language-C++-red.svg)](https://developer.apple.com/)
 ```diff
-@@ PROBLEMS SOLVED SO FAR ... @@
+@@  Number of Problems Solved So Far : 167... @@
 ```
 
 | # | Problem Title | Difficulty | Solution |
@@ -194,3 +195,6 @@ solutions main(logic)
 | 2385 | Amount of Time for Binary Tree to Be Infected | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2385.%20Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected)|
 | 2469 | Convert the Temperature | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2469.%20Convert%20the%20Temperature)|
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level)|
+| 2485 | Find the Pivot Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2485.%20Find%20the%20Pivot%20Integer)|
+| 2486 | Append Characters to String to Make Subsequence | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2486.%20Append%20Characters%20to%20String%20to%20Make%20Subsequence)|
+| 2487 | Remove Nodes From Linked List | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2487.%20Remove%20Nodes%20From%20Linked%20List)|
