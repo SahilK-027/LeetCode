@@ -138,6 +138,8 @@ solutions main(logic)
 | 374 | Guess Number Higher or Lower | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/374.%20Guess%20Number%20Higher%20or%20Lower)|
 | 383 | Ransom Note | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/383.%20Ransom%20Note)|
 | 387 | First Unique Character in a String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/387.%20First%20Unique%20Character%20in%20a%20String%202%205)|
+| 390 | Elimination Game | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/390.%20Elimination%20Game)|
+| 387 | First Unique Character in a String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/387.%20First%20Unique%20Character%20in%20a%20String%202%205)|
 | 392 | Is Subsequence | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/392.%20Is%20Subsequence)|
 | 404 | Sum of Left Leaves | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/404.%20Sum%20of%20Left%20Leaves)|
 | 437 | Path Sum III | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/437.%20Path%20Sum%20III)|
@@ -187,6 +189,7 @@ solutions main(logic)
 | 1544 | Make The String Great | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1544.%20Make%20The%20String%20Great)|
 | 1572 | Matrix Diagonal Sum | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1572.%20Matrix%20Diagonal%20Sum)|
 | 1672 | Richest Customer Wealth | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1672.%20Richest%20Customer%20Wealth)|
+| 1704 | Determine if String Halves Are Alike | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1704.%20Determine%20if%20String%20Halves%20Are%20Alike)|
 | 1752 | Check if Array Is Sorted and Rotated | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated)|
 | 1910 | Remove All Occurrences of a Substring | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring)|
 | 2095 | Delete the Middle Node of a Linked List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List)|
