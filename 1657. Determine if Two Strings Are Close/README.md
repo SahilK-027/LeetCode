@@ -1,4 +1,4 @@
-# Determine if String Halves Are Alike
+#  Determine if Two Strings Are Close
 ## Description
 
 Two strings are considered close if you can attain one from the other using the following operations:
