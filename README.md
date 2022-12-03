@@ -140,7 +140,7 @@ solutions main(logic)
 | 387 | First Unique Character in a String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/387.%20First%20Unique%20Character%20in%20a%20String%202%205)|
 | 390 | Elimination Game | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/390.%20Elimination%20Game)|
 | 392 | Is Subsequence | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/392.%20Is%20Subsequence)|
-| 394 | Decode String | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/394.%20Decode%20String|
+| 394 | Decode String | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/394.%20Decode%20String)|
 | 404 | Sum of Left Leaves | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/404.%20Sum%20of%20Left%20Leaves)|
 | 437 | Path Sum III | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/437.%20Path%20Sum%20III)|
 | 442 | Find All Duplicates in an Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/442.%20Find%20All%20Duplicates%20in%20an%20Array)|
