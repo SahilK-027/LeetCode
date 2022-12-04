@@ -210,3 +210,5 @@ solutions main(logic)
 | 2485 | Find the Pivot Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2485.%20Find%20the%20Pivot%20Integer)|
 | 2486 | Append Characters to String to Make Subsequence | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2486.%20Append%20Characters%20to%20String%20to%20Make%20Subsequence)|
 | 2487 | Remove Nodes From Linked List | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2487.%20Remove%20Nodes%20From%20Linked%20List)|
+| 2490 | Circular Sentence | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2490.%20Circular%20Sentence)|
+| 2491 | Divide Players Into Teams of Equal Skill | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2491.%20Divide%20Players%20Into%20Teams%20of%20Equal%20Skill)|
