@@ -188,6 +188,7 @@ solutions main(logic)
 | 1281 | Subtract the Product and Sum of Digits of an Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)|
 | 1290 | Convert Binary Number in a Linked List to Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)|
 | 1325 | Delete Leaves With a Given Value | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1325.%20Delete%20Leaves%20With%20a%20Given%20Value)|
+| 1342 | Number of Steps to Reduce a Number to Zero | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)|
 | 1373 | Maximum Sum BST in Binary Tree | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree)|
 | 1382 | Balance a Binary Search Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1382.%20Balance%20a%20Binary%20Search%20Tree)|
 | 1448 | Count Good Nodes in Binary Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)|
@@ -202,6 +203,7 @@ solutions main(logic)
 | 1823 | Find the Winner of the Circular Game | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)|
 | 1910 | Remove All Occurrences of a Substring | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring)|
 | 2095 | Delete the Middle Node of a Linked List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List)|
+| 2169 | Count Operations to Obtain Zero | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2169.%20Count%20Operations%20to%20Obtain%20Zero)|
 | 2181 | Merge Nodes in Between Zeros | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2181.%20Merge%20Nodes%20in%20Between%20Zeros)|
 | 2256 | Minimum Average Difference | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2256.%20Minimum%20Average%20Difference)|
 | 2265 | Count Nodes Equal to Average of Subtree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree)|
