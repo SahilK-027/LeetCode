@@ -121,6 +121,7 @@ solutions main(logic)
 | 230 | Kth Smallest Element in a BST | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/230.%20Kth%20Smallest%20Element%20in%20a%20BST)|
 | 231 | Power of Two | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/231.%20Power%20of%20Two)|
 | 232 | Implement Queue using Stacks | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/232.%20Implement%20Queue%20using%20Stacks)|
+| 233 | Number of Digit One | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/233.%20Number%20of%20Digit%20One)|
 | 234 | Palindrome Linked List | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/234.%20Palindrome%20Linked%20List)|
 | 235 | Lowest Common Ancestor of a Binary Search Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|
 | 236 | Lowest Common Ancestor of a Binary Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)|
