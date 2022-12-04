@@ -174,6 +174,7 @@ solutions main(logic)
 | 832 | Flipping an Image | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/832.%20Flipping%20an%20Image)|
 | 844 | Backspace String Compare | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/844.%20Backspace%20String%20Compare)|
 | 852 | Peak Index in a Mountain Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/852.%20Peak%20Index%20in%20a%20Mountain%20Array)|
+| 863 | All Nodes Distance K in Binary Tree | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree)|
 | 872 | Leaf-Similar Trees | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/872.%20Leaf-Similar%20Trees)|
 | 876 | Middle of the Linked List | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/876.%20Middle%20of%20the%20Linked%20List)|
 | 921 | Minimum Add to Make Parentheses Valid | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid)|
