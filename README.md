@@ -129,6 +129,7 @@ solutions main(logic)
 | 239 | Sliding Window Maximum | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/239.%20Sliding%20Window%20Maximum)|
 | 240 | Search a 2D Matrix II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/240.%20Search%20a%202D%20Matrix%20II)|
 | 263 | Ugly Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/263.%20Ugly%20Number)|
+| 273 | Integer to English Words | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/273.%20Integer%20to%20English%20Words)|
 | 278 | First Bad Version | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/278.%20First%20Bad%20Version)|
 | 283 | Move Zeroes | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/283.%20Move%20Zeroes)|
 | 326 | Power of Three | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/326.%20Power%20of%20Three)|
