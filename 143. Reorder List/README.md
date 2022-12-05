@@ -1,4 +1,4 @@
-# Number of Steps to Reduce a Number to Zero
+# Reorder List
 ## Description
 
 You are given the head of a singly linked-list. The list can be represented as:
