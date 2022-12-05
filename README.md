@@ -99,6 +99,7 @@ solutions main(logic)
 | 138 | Copy List with Random Pointer | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/138.%20Copy%20List%20with%20Random%20Pointer)|
 | 141 | Linked List Cycle | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/141.%20Linked%20List%20Cycle)|
 | 142 | Linked List Cycle II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/142.%20Linked%20List%20Cycle%20II)|
+| 143 | Reorder List | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/143.%20Reorder%20List)|
 | 144 | Binary Tree Preorder Traversal | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/144.%20Binary%20Tree%20Preorder%20Traversal)|
 | 145 | Binary Tree Postorder Traversal | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/145.%20Binary%20Tree%20Postorder%20Traversal)|
 | 148 | Sort List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/148.%20Sort%20List)|
