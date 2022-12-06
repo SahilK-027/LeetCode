@@ -46,6 +46,7 @@ solutions main(logic)
 | 19 | Remove Nth Node From End of List | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)|
 | 20 | Valid Parentheses | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/20.%20Valid%20Parentheses)|
 | 21 | Merge Two Sorted Lists | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/21.%20Merge%20Two%20Sorted%20Lists)|
+| 22 | Generate Parentheses | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/22.%20Generate%20Parentheses) |
 | 23 | Merge k Sorted Lists | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/23.%20Merge%20k%20Sorted%20Lists)|
 | 24 | Swap Nodes in Pairs | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/24.%20Swap%20Nodes%20in%20Pairs)|
 | 25 | Reverse Nodes in k-Group | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/25.%20Reverse%20Nodes%20in%20k-Group)|
