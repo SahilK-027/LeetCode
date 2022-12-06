@@ -129,6 +129,7 @@ solutions main(logic)
 | 237 | Delete Node in a Linked List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/237.%20Delete%20Node%20in%20a%20Linked%20List)|
 | 239 | Sliding Window Maximum | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/239.%20Sliding%20Window%20Maximum)|
 | 240 | Search a 2D Matrix II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/240.%20Search%20a%202D%20Matrix%20II)|
+| 257 | Binary Tree Paths | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/257.%20Binary%20Tree%20Paths)|
 | 263 | Ugly Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/263.%20Ugly%20Number)|
 | 273 | Integer to English Words | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/273.%20Integer%20to%20English%20Words)|
 | 278 | First Bad Version | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/278.%20First%20Bad%20Version)|
