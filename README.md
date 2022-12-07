@@ -182,6 +182,7 @@ solutions main(logic)
 | 872 | Leaf-Similar Trees | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/872.%20Leaf-Similar%20Trees)|
 | 876 | Middle of the Linked List | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/876.%20Middle%20of%20the%20Linked%20List)|
 | 921 | Minimum Add to Make Parentheses Valid | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid)|
+| 938 | Range Sum of BST | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/938.%20Range%20Sum%20of%20BST)|
 | 958 | Check Completeness of a Binary Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/958.%20Check%20Completeness%20of%20a%20Binary%20Tree)|
 | 977 | Squares of a Sorted Array | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/977.%20Squares%20of%20a%20Sorted%20Array)|
 | 1008 | Construct Binary Search Tree from Preorder Traversal | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)|
