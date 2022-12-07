@@ -2,8 +2,9 @@
 
 ## C++ solutions for LeetCode
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sahil_k_027?ext=activity)
-![Leetcode Stats](https://leetcard.jacoblin.cool/nirupama28?ext=activity)
+### Contributors
+![Leetcode Stats](https://leetcard.jacoblin.cool/sahil_k_027)
+![Leetcode Stats](https://leetcard.jacoblin.cool/nirupama28)
 
 ```cpp
 
