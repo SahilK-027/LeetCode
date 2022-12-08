@@ -232,8 +232,8 @@ solutions main(logic)
 <table>
   <tbody>
     <tr>
-    <td align="center"><a href="https://SahilK-027.com"><img src="https://avatars.githubusercontent.com/u/104154041?v=4" alt="Sahil-k" width="100px;"/><br /><sub><b>Sahil K.</b></sub></a><br /><a href="mailto:sahilkandhare07@gmail.com">💬</a></td>
-      <td align="center"><a href="https://AaryanChaudhari.com"><img src="https://avatars.githubusercontent.com/u/97241653?s=400&u=1266423cfde0ff30175fea148a46e57a442247e7&v=4" alt="Aaryan-C" width="100px;"/><br /><sub><b>Aaryan Chaudhari</b></sub></a><br /><a href="mailto:aaryananilchaudhari@gmail.com">💬</a></td>
+    <td align="center"><a href="https://github.com/SahilK-027"><img src="https://avatars.githubusercontent.com/u/104154041?v=4" alt="Sahil-k" width="100px;"/><br /><sub><b>Sahil K.</b></sub></a><br /><a href="mailto:sahilkandhare07@gmail.com">💬</a></td>
+      <td align="center"><a href="https://github.com/AaryanChaudhari"><img src="https://avatars.githubusercontent.com/u/97241653?s=400&u=1266423cfde0ff30175fea148a46e57a442247e7&v=4" alt="Aaryan-C" width="100px;"/><br /><sub><b>Aaryan Chaudhari</b></sub></a><br /><a href="mailto:aaryananilchaudhari@gmail.com">💬</a></td>
     </tr>
    </tbody>
  </table>
