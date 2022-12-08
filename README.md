@@ -2,11 +2,6 @@
 
 ## C++ solutions for LeetCode
 
-### Contributors
-![Leetcode Stats](https://leetcard.jacoblin.cool/sahil_k_027)
-![Leetcode Stats](https://leetcard.jacoblin.cool/nirupama28)
-![Leetcode Stats](https://leetcard.jacoblin.cool/shashankbhosagi0121)
-
 ```cpp
 
 /**
@@ -228,13 +223,17 @@ solutions main(logic)
 | 2490 | Circular Sentence | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2490.%20Circular%20Sentence)|
 | 2491 | Divide Players Into Teams of Equal Skill | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2491.%20Divide%20Players%20Into%20Teams%20of%20Equal%20Skill)|
 
+
+## Contributors
+![Leetcode Stats](https://leetcard.jacoblin.cool/sahil_k_027)
+![Leetcode Stats](https://leetcard.jacoblin.cool/nirupama28)
+![Leetcode Stats](https://leetcard.jacoblin.cool/shashankbhosagi0121)
+
 <table>
   <tbody>
     <tr>
     <td align="center"><a href="https://SahilK-027.com"><img src="https://avatars.githubusercontent.com/u/104154041?v=4" alt="Sahil-k" width="100px;"/><br /><sub><b>Sahil K.</b></sub></a><br /><a href="mailto:sahilkandhare07@gmail.com">💬</a></td>
-      <td align="center"><a href="https://AaryanChaudhari.com"><img src="https://avatars.githubusercontent.com/u/97241653?s=400&u=1266423cfde0ff30175fea148a46e57a442247e7&v=4" alt="Aaryan-C"/><br /><sub><b>Aaryan Chaudhari</b></sub></a><br /><a href="mailto:aaryananilchaudhari@gmail.com">💬</a></td>
-
+      <td align="center"><a href="https://AaryanChaudhari.com"><img src="https://avatars.githubusercontent.com/u/97241653?s=400&u=1266423cfde0ff30175fea148a46e57a442247e7&v=4" alt="Aaryan-C" width="100px;"/><br /><sub><b>Aaryan Chaudhari</b></sub></a><br /><a href="mailto:aaryananilchaudhari@gmail.com">💬</a></td>
     </tr>
-    
-    </tbody>
+   </tbody>
  </table>
