@@ -5,6 +5,7 @@
 ### Contributors
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sahil_k_027)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nirupama28)
+![Leetcode Stats](https://leetcard.jacoblin.cool/shashankbhosagi0121)
 
 ```cpp
 
