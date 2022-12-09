@@ -169,6 +169,7 @@ solutions main(logic)
 | 632 | Smallest Range Covering Elements from K Lists | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists)|
 | 637 | Average of Levels in Binary Tree | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/637.%20Average%20of%20Levels%20in%20Binary%20Tree)|
 | 653 | Two Sum IV - Input is a BST | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST)|
+| 654 | Maximum Binary Tree | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/654.%20Maximum%20Binary%20Tree)|
 | 700 | Search in a Binary Search Tree | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/700.%20Search%20in%20a%20Binary%20Search%20Tree)|
 | 701 | Insert into a Binary Search Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/701.%20Insert%20into%20a%20Binary%20Search%20Tree)|
 | 704 | Binary Search | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/704.%20Binary%20Search)|
