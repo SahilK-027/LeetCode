@@ -194,6 +194,7 @@ solutions main(logic)
 | 1207 | Unique Number of Occurrences | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1207.%20Unique%20Number%20of%20Occurrences)|
 | 1281 | Subtract the Product and Sum of Digits of an Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)|
 | 1290 | Convert Binary Number in a Linked List to Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)|
+| 1339 | Maximum Product of Splitted Binary Tree | 🟡 | [solution]()|
 | 1325 | Delete Leaves With a Given Value | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1325.%20Delete%20Leaves%20With%20a%20Given%20Value)|
 | 1342 | Number of Steps to Reduce a Number to Zero | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)|
 | 1373 | Maximum Sum BST in Binary Tree | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree)|
