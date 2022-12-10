@@ -204,6 +204,7 @@ solutions main(logic)
 | 1523 | Count Odd Numbers in an Interval Range | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range)|
 | 1544 | Make The String Great | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1544.%20Make%20The%20String%20Great)|
 | 1572 | Matrix Diagonal Sum | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1572.%20Matrix%20Diagonal%20Sum)|
+| 1655 | Distribute Repeating Integers | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1655.%20Distribute%20Repeating%20Integers)|
 | 1657 | Determine if Two Strings Are Close | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1657.%20Determine%20if%20Two%20Strings%20Are%20Close)|
 | 1672 | Richest Customer Wealth | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1672.%20Richest%20Customer%20Wealth)|
 | 1704 | Determine if String Halves Are Alike | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1704.%20Determine%20if%20String%20Halves%20Are%20Alike)|
