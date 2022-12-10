@@ -98,6 +98,7 @@ solutions main(logic)
 | 124 | Binary Tree Maximum Path Sum | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum)|
 | 129 | Sum Root to Leaf Numbers | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/129.%20Sum%20Root%20to%20Leaf%20Numbers)|
 | 138 | Copy List with Random Pointer | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/138.%20Copy%20List%20with%20Random%20Pointer)|
+| 140 | Word Break II | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/140.%20Word%20Break%20II)|
 | 141 | Linked List Cycle | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/141.%20Linked%20List%20Cycle)|
 | 142 | Linked List Cycle II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/142.%20Linked%20List%20Cycle%20II)|
 | 143 | Reorder List | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/143.%20Reorder%20List)|
