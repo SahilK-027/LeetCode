@@ -7,19 +7,21 @@ public:
             return true;
         }
         
-        for(auto it = mp.begin(); it != mp.end(); ++it) {
-            if(it->second >= qty[i]) {
+        for(auto it: mp) {
+            if(mp[it.first] >= qty[i]) {
                 
-                mp[it->first] -= qty[i];
+                mp[it.first] -= qty[i];
                 
                 bool recAns = solve(qty, mp, i+1);
-                if(recAns)
+                if(recAns == true){
                     return true;
-                else
-                //BT
-                mp[it->first] += qty[i];
+                }
+                else{
+                    // Back track
+                    mp[it.first] += qty[i];
+                }    
             }
-        }   
+        }
       return false;  
     }
     
