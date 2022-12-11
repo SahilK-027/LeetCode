@@ -231,7 +231,7 @@ solutions main(logic)
 | 2496 | Maximum Value of a String in an Array | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2496.%20Maximum%20Value%20of%20a%20String%20in%20an%20Array)|
 | 2500 | Delete Greatest Value in Each Row | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row)|
 | 2501 | Longest Square Streak in an Array | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2501.%20Longest%20Square%20Streak%20in%20an%20Array)|
-
+| 2502 | Design Memory Allocator | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2502.%20Design%20Memory%20Allocator)|
 
 ## Contributors
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sahil_k_027?ext=heatmap)
