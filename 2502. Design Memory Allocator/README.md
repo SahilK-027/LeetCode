@@ -1,4 +1,4 @@
-# Longest Square Streak in an Array
+# Design Memory Allocator
 ## Description
 
 You are given an integer n representing the size of a 0-indexed memory array. All memory units are initially free.
