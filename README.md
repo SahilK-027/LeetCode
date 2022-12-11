@@ -228,6 +228,9 @@ solutions main(logic)
 | 2487 | Remove Nodes From Linked List | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2487.%20Remove%20Nodes%20From%20Linked%20List)|
 | 2490 | Circular Sentence | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2490.%20Circular%20Sentence)|
 | 2491 | Divide Players Into Teams of Equal Skill | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2491.%20Divide%20Players%20Into%20Teams%20of%20Equal%20Skill)|
+| 2496 | Maximum Value of a String in an Array | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2496.%20Maximum%20Value%20of%20a%20String%20in%20an%20Array)|
+| 2500 | Delete Greatest Value in Each Row | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row)|
+| 2501 | Longest Square Streak in an Array | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2501.%20Longest%20Square%20Streak%20in%20an%20Array)|
 
 
 ## Contributors
