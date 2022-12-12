@@ -67,6 +67,7 @@ solutions main(logic)
 | 61 | Rotate List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/61.%20Rotate%20List)|
 | 66 | Plus One | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/66.%20Plus%20One)|
 | 69 | Sqrt(x) | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/69.%20Sqrt(x))|
+| 70 | Climbing Stairs | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/70.%20Climbing%20Stairs)|
 | 73 | Set Matrix Zeroes | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/73.%20Set%20Matrix%20Zeroes)|
 | 74 | Search a 2D Matrix | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/74.%20Search%20a%202D%20Matrix)|
 | 78 | Subsets | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/78.%20Subsets)|
