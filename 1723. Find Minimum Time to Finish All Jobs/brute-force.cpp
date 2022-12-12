@@ -1,10 +1,10 @@
-/*
-* 0 ms
-* 6.2 mb
-*/
 /**
  * @author : Sahilk-027
- * @brief : Using next_free_space array
+ * @brief : Using Recursion and backtracking.
+*/
+
+/*
+⚠️ This solution will require optimization else it will give TLE but its added here to understand how solution looked before optimization.
 */
 
 // Using Recursion and Backtracking
