@@ -211,6 +211,7 @@ solutions main(logic)
 | 1657 | Determine if Two Strings Are Close | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1657.%20Determine%20if%20Two%20Strings%20Are%20Close)|
 | 1672 | Richest Customer Wealth | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1672.%20Richest%20Customer%20Wealth)|
 | 1704 | Determine if String Halves Are Alike | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1704.%20Determine%20if%20String%20Halves%20Are%20Alike)|
+| 1723 | Find Minimum Time to Finish All Jobs | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs)|
 | 1752 | Check if Array Is Sorted and Rotated | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated)|
 | 1823 | Find the Winner of the Circular Game | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)|
 | 1863 |  Sum of All Subset XOR Totals | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals)|
