@@ -113,6 +113,8 @@ solutions main(logic)
 | 167 | Two Sum II - Input Array Is Sorted | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)|
 | 189 | Rotate Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/189.%20Rotate%20Array)|
 | 191 | Number of 1 Bits | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/191.%20Number%20of%201%20Bits)|
+| 198 | House Robber | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/198.%20House%20Robber)|
+| 191 | Number of 1 Bits | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/191.%20Number%20of%201%20Bits)|
 | 199 | Binary Tree Right Side View | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/199.%20Binary%20Tree%20Right%20Side%20View)|
 | 202 | Happy Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/202.%20Happy%20Number)|
 | 203 | Remove Linked List Elements | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/203.%20Remove%20Linked%20List%20Elements)|
