@@ -199,6 +199,8 @@ solutions main(logic)
 | 1026 | Maximum Difference Between Node and Ancestor | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor)|
 | 1038 | Binary Search Tree to Greater Sum Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree)|
 | 1047 | Remove All Adjacent Duplicates In String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|
+| 1143 | Longest Common Subsequence | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1143.%20Longest%20Common%20Subsequence)|
+| 1047 | Remove All Adjacent Duplicates In String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|
 | 1207 | Unique Number of Occurrences | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1207.%20Unique%20Number%20of%20Occurrences)|
 | 1281 | Subtract the Product and Sum of Digits of an Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)|
 | 1290 | Convert Binary Number in a Linked List to Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)|
