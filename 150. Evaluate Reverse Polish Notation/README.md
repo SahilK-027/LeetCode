@@ -1,4 +1,4 @@
-# N-Queens II
+# Evaluate Reverse Polish Notation
 ## Description
 
 Evaluate the value of an arithmetic expression in Reverse Polish Notation.
