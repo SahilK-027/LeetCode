@@ -245,6 +245,7 @@ solutions main(logic)
 | 2501 | Longest Square Streak in an Array | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2501.%20Longest%20Square%20Streak%20in%20an%20Array)|
 | 2502 | Design Memory Allocator | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2502.%20Design%20Memory%20Allocator)|
 
+
 ## Contributors
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sahil_k_027?ext=heatmap)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nirupama28?ext=heatmap)
