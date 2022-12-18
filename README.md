@@ -41,6 +41,7 @@ solutions main(logic)
 | 14 | Longest Common Prefix | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/14.%20Longest%20Common%20Prefix)|
 | 15 | 3Sum | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/15.%203Sum)|
 | 17 | Letter Combinations of a Phone Number | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)|
+| 18 | 4Sum | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/18.%204Sum)|
 | 19 | Remove Nth Node From End of List | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)|
 | 20 | Valid Parentheses | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/20.%20Valid%20Parentheses)|
 | 21 | Merge Two Sorted Lists | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/21.%20Merge%20Two%20Sorted%20Lists)|
