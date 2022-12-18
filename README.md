@@ -250,7 +250,7 @@ solutions main(logic)
 
 
 ## Contributors
-![Leetcode Stats](https://leetcard.jacoblin.cool/sahil_k_027?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/sahil_k_027?ext=contest)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nirupama28?ext=heatmap)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/shashankbhosagi0121?ext=heatmap)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Aaryan3012?ext=heatmap)
