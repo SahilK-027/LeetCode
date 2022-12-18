@@ -182,6 +182,7 @@ solutions main(logic)
 | 701 | Insert into a Binary Search Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/701.%20Insert%20into%20a%20Binary%20Search%20Tree)|
 | 704 | Binary Search | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/704.%20Binary%20Search)|
 | 733 | Flood Fill | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/733.%20Flood%20Fill)|
+| 739 | Daily Temperatures | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/739.%20Daily%20Temperatures)|
 | 779 | K-th Symbol In Grammar | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/779.%20K-th%20Symbol%20in%20Grammar)|
 | 733 | Flood Fill | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/733.%20Flood%20Fill)|
 | 832 | Flipping an Image | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/832.%20Flipping%20an%20Image)|
@@ -244,6 +245,8 @@ solutions main(logic)
 | 2500 | Delete Greatest Value in Each Row | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row)|
 | 2501 | Longest Square Streak in an Array | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2501.%20Longest%20Square%20Streak%20in%20an%20Array)|
 | 2502 | Design Memory Allocator | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2502.%20Design%20Memory%20Allocator)|
+| 2506 | Count Pairs Of Similar Strings | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2506.%20Count%20Pairs%20Of%20Similar%20Strings)|
+| 2507 | Smallest Value After Replacing With Sum of Prime Factors | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2507.%20Smallest%20Value%20After%20Replacing%20With%20Sum%20of%20Prime%20Factors)|
 
 
 ## Contributors
