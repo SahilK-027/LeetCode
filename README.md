@@ -193,6 +193,7 @@ solutions main(logic)
 | 863 | All Nodes Distance K in Binary Tree | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree)|
 | 872 | Leaf-Similar Trees | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/872.%20Leaf-Similar%20Trees)|
 | 876 | Middle of the Linked List | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/876.%20Middle%20of%20the%20Linked%20List)|
+| 886 | Possible Bipartition | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/886.%20Possible%20Bipartition)|
 | 921 | Minimum Add to Make Parentheses Valid | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid)|
 | 931 | Minimum Falling Path Sum | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/931.%20Minimum%20Falling%20Path%20Sum)|
 | 938 | Range Sum of BST | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/938.%20Range%20Sum%20of%20BST)|
