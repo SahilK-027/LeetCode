@@ -145,6 +145,8 @@ solutions main(logic)
 | 278 | First Bad Version | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/278.%20First%20Bad%20Version)|
 | 283 | Move Zeroes | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/283.%20Move%20Zeroes)|
 | 301 | Remove Invalid Parentheses | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/301.%20Remove%20Invalid%20Parentheses)|
+| 309 | Best Time to Buy and Sell Stock with Cooldown | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)|
+| 301 | Remove Invalid Parentheses | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/301.%20Remove%20Invalid%20Parentheses)|
 | 326 | Power of Three | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/326.%20Power%20of%20Three)|
 | 328 | Odd Even Linked List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/328.%20Odd%20Even%20Linked%20List)|
 | 342 | Power of Four | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/342.%20Power%20of%20Four)|
