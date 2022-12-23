@@ -187,6 +187,7 @@ solutions main(logic)
 | 779 | K-th Symbol In Grammar | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/779.%20K-th%20Symbol%20in%20Grammar)|
 | 733 | Flood Fill | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/733.%20Flood%20Fill)|
 | 832 | Flipping an Image | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/832.%20Flipping%20an%20Image)|
+| 834 | Sum of Distances in Tree | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/834.%20Sum%20of%20Distances%20in%20Tree)|
 | 841 | Keys and Rooms | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/841.%20Keys%20and%20Rooms)|
 | 844 | Backspace String Compare | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/844.%20Backspace%20String%20Compare)|
 | 852 | Peak Index in a Mountain Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/852.%20Peak%20Index%20in%20a%20Mountain%20Array)|
