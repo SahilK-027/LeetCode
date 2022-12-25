@@ -254,6 +254,7 @@ solutions main(logic)
 | 2502 | Design Memory Allocator | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2502.%20Design%20Memory%20Allocator)|
 | 2506 | Count Pairs Of Similar Strings | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2506.%20Count%20Pairs%20Of%20Similar%20Strings)|
 | 2507 | Smallest Value After Replacing With Sum of Prime Factors | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2507.%20Smallest%20Value%20After%20Replacing%20With%20Sum%20of%20Prime%20Factors)|
+| 2515 | Shortest Distance to Target String in a Circular Array | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array)|
 
 
 ## Contributors
