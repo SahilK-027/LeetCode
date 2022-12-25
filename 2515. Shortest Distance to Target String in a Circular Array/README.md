@@ -10,7 +10,6 @@ Return the shortest distance needed to reach the string target. If the string ta
 
 Example 1:
 
-![alt](https://assets.leetcode.com/uploads/2021/07/15/lc-domino1.jpg)
 ```
 Input: words = ["hello","i","am","leetcode","hello"], target = "hello", startIndex = 1
 Output: 1
