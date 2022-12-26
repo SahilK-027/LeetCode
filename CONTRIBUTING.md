@@ -133,6 +133,6 @@ NOTE: YOU CAN EXPALIN YOUR APPROACH HERE
 - Checkout our [pull request template](https://github.com/SahilK-027/LeetCode/blob/main/.github/workflows/pull_request_template.md)
 By now you are ready to make a **PULL REQUEST**
 
-```diff
-@@  Happy Coding </>... @@
-```
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Happy+LeetCoding!;)](https://git.io/typing-svg)
