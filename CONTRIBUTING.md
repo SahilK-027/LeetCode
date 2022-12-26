@@ -145,6 +145,7 @@ NOTE: YOU CAN EXPALIN YOUR APPROACH HERE
 ## Pull Requests
 
 - PR title : `Added solution for PROBLEM NO. X`
+- It will be appriciated if you add screenshots, highlighting the changes you have made within the PR description.
 - Checkout our [pull request template](https://github.com/SahilK-027/LeetCode/blob/main/.github/workflows/pull_request_template.md)
 
 By now you are ready to make a **PULL REQUEST**
