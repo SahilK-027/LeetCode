@@ -3,7 +3,7 @@
 <!-- _Thank you for your Pull Request. Please provide a description above and review
 the requirements below..._
 
-Contributors guide: https://github.com/TheAlgorithms/C/blob/master/CONTRIBUTING.md -->
+Contributors guide: https://github.com/SahilK-027/LeetCode/blob/main/CONTRIBUTING.md -->
 
 #### References
 <!-- Add any reference to previous pull-request or issue -->
@@ -12,8 +12,8 @@ Contributors guide: https://github.com/TheAlgorithms/C/blob/master/CONTRIBUTING.
 <!-- Remove items that do not apply. For completed items, change [ ] to [x]. -->
 
 - [ ] Added description of change
-- [ ] Added file name matches [File name guidelines]()
+- [ ] Added file name matches [File name guidelines](https://github.com/SahilK-027/LeetCode/blob/main/CONTRIBUTING.md)
 - [ ] Relevant documentation/comments is changed or added
-- [ ] PR title follows semantic [commit guidelines]()
+- [ ] PR title follows semantic [commit guidelines](https://github.com/SahilK-027/LeetCode/blob/main/CONTRIBUTING.md)
 
 Notes: <!--Please add a one-line description for developers or pull request viewers -->
