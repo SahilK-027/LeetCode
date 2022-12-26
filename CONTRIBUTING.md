@@ -10,7 +10,7 @@ Welcome to [SahilK-027/Leetcode](https://github.com/SahilK-027/LeetCode)
 
 ## Contributor
 
-Being a contributor at The Algorithms, we request you to follow the points mentioned below:
+Being a contributor at Leetcode, we request you to follow the points mentioned below:
 
 - You did your own work.
 - No plagiarism is allowed. Any plagiarized work will not be merged.
@@ -27,9 +27,9 @@ If you have a solution for the problem which is not yet solved then for addig it
 1. Create a directory `Leetcode/no.PROBLEM_NAME`
     - For example: if the problem's number is 100, then create a repository 100. Same Tree.
 
-2. Add two files README.md and solution.cpp `(or in that case any language)` inside the directory you have just created
+2. Add two files README.md and solution.cpp `(or in that case extention for any other language)` in the directory you have just created.
 
-3. Inside the readme follow the following code to write problem description
+3. In the README.md you have created for the particular problem follow the following code to write problem description.
 ```
 # Probelm Name
 ## Description
@@ -53,7 +53,7 @@ Explaination:
 4. Adding code in solution.cpp
 Provide Runtime, memory, time and space complexity , author name a brief description of the solution at the top of the file. A function should go below that. 
 
-You can follow this method: 
+You can follow this writeup to mention at top of your code: 
 For example:
 ```cpp
 /*
@@ -89,7 +89,7 @@ This is the required format for new solutinos:
 <br/>
 
 
-## 📝 Adding a alternative solution for Problem in REPOSITORY 📝
+## 📝 Adding a alternative solution for the Problem in REPOSITORY 📝
 
 All solved LeetCode problems can be found [**here**](https://github.com/SahilK-027/LeetCode).
 If you have a solution to any of these problems (which are not being [**repeated**]), that's great! Here are the steps:
