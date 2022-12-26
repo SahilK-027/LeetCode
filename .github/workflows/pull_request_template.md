@@ -11,9 +11,9 @@ Contributors guide: https://github.com/SahilK-027/LeetCode/blob/main/CONTRIBUTIN
 #### Checklist
 <!-- Remove items that do not apply. For completed items, change [ ] to [x]. -->
 
-- [ ] Added description of change
-- [ ] Added file name matches [File name guidelines](https://github.com/SahilK-027/LeetCode/blob/main/CONTRIBUTING.md)
-- [ ] Relevant documentation/comments is changed or added
-- [ ] PR title follows semantic [commit guidelines](https://github.com/SahilK-027/LeetCode/blob/main/CONTRIBUTING.md)
+- [ ] Added detailed description of changes.
+- [ ] Relevant documentation/comments is changed or added.
+- [ ] Added file name matches [File name guidelines](https://github.com/SahilK-027/LeetCode/blob/main/CONTRIBUTING.md).
+- [ ] PR title follows semantic [commit guidelines](https://github.com/SahilK-027/LeetCode/blob/main/CONTRIBUTING.md).
 
 Notes: <!--Please add a one-line description for developers or pull request viewers -->
