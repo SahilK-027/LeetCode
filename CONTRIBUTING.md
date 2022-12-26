@@ -2,7 +2,11 @@
 
 ## Before contributing
 Welcome to [SahilK-027//Leetcode](https://github.com/SahilK-027/LeetCode)
-! Before submitting pull requests, please make sure that you have **read the whole guidelines**.
+
+```diff
+@@ Before submitting pull requests, please make sure that you have read the whole guidelines @@
+
+```
 
 ## Contributor
 
@@ -69,6 +73,16 @@ SC : O(n)
 NOTE: YOU CAN EXPALIN YOUR APPROACH HERE
 */
 ```
+### 📜 Adding your new solution to the list 📜
+
+Great! You've added your solution. Now, you'll have to add it to `leetcode/README.md`.\
+Please use numerical order. For example: if the solution's number is `100`, add your solution after `99`, if available.
+
+This is the required format for new solutinos:
+
+```markdown
+| <Problem number>   | [<Problem name>]|  | <difficulty> 🟢 or 🟡 or 🔴 |[solution](LEAVE THIS SPACE EMPTY)|  
+```
 
 <br/>
 <br/>
@@ -126,7 +140,7 @@ NOTE: YOU CAN EXPALIN YOUR APPROACH HERE
 - Make sure you put useful comments in your code. Do not comment on obvious things.
 - Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure. If you want to create a new directory, then please check if a similar category has been recently suggested or created by other pull requests.
 - If you have modified/added documentation, please ensure that your language is concise and must not contain grammatical errors.
-- Do not update [`README.md`](https://github.com/SahilK-027/LeetCode/blob/main/README.md) along with other changes. First, create an issue and then link to that issue in your pull request to suggest specific changes.
+- Do not update [`README.md`](https://github.com/SahilK-027/LeetCode/blob/main/README.md) if you are only adding alternative solution for preexisting problem in list.  First, create an issue and then link to that issue in your pull request to suggest specific changes.
 
 ## Pull Requests
 
