@@ -233,6 +233,7 @@ solutions main(logic)
 | 1704 | Determine if String Halves Are Alike | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1704.%20Determine%20if%20String%20Halves%20Are%20Alike)|
 | 1723 | Find Minimum Time to Finish All Jobs | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs)|
 | 1752 | Check if Array Is Sorted and Rotated | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated)|
+| 1791 | Find Center of Star Graph | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1791.%20Find%20Center%20of%20Star%20Graph)|
 | 1823 | Find the Winner of the Circular Game | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)|
 | 1863 |  Sum of All Subset XOR Totals | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals)|
 | 1910 | Remove All Occurrences of a Substring | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring)|
