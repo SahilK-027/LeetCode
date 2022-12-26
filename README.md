@@ -206,6 +206,7 @@ solutions main(logic)
 | 958 | Check Completeness of a Binary Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/958.%20Check%20Completeness%20of%20a%20Binary%20Tree)|
 | 977 | Squares of a Sorted Array | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/977.%20Squares%20of%20a%20Sorted%20Array)|
 | 980 | Unique Paths III | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/980.%20Unique%20Paths%20III)|
+| 997 | Find the Town Judge | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/997.%20Find%20the%20Town%20Judge)|
 | 1008 | Construct Binary Search Tree from Preorder Traversal | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)|
 | 1009 | Complement of Base 10 Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1009.%20Complement%20of%20Base%2010%20Integer)|
 | 1026 | Maximum Difference Between Node and Ancestor | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor)|
