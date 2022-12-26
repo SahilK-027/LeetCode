@@ -1,7 +1,7 @@
 # 📚 CONTRIBUTION GUIDELINES 📚
 
 ## Before contributing
-Welcome to [SahilK-027//Leetcode](https://github.com/SahilK-027/LeetCode)
+Welcome to [SahilK-027/Leetcode](https://github.com/SahilK-027/LeetCode)
 
 ```diff
 @@ Before submitting pull requests, please make sure that you have read the whole guidelines @@
