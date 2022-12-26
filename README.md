@@ -57,6 +57,7 @@ solutions main(logic)
 | 35 | Search Insert Position | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/35.%20Search%20Insert%20Position)|
 | 37 | Sudoku Solver | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/37.%20Sudoku%20Solver)|
 | 42 | Trapping Rain Water | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/42.%20Trapping%20Rain%20Water)|
+| 45 | Jump Game II | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/45.%20Jump%20Game%20II)
 | 46 | Permutations | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/46.%20Permutations)|
 | 48 | Rotate Image | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/48.%20Rotate%20Image)|
 | 49 | Group Anagram | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/49.%20Group%20Anagrams)|
