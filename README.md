@@ -244,6 +244,7 @@ solutions main(logic)
 | 2181 | Merge Nodes in Between Zeros | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2181.%20Merge%20Nodes%20in%20Between%20Zeros)|
 | 2256 | Minimum Average Difference | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2256.%20Minimum%20Average%20Difference)|
 | 2265 | Count Nodes Equal to Average of Subtree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree)|
+| 2279 | Maximum Bags With Full Capacity of Rocks | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks)|
 | 2367 | Number of Arithmetic Triplets | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2367.%20Number%20of%20Arithmetic%20Triplets)|
 | 2385 | Amount of Time for Binary Tree to Be Infected | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2385.%20Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected)|
 | 2389 | Longest Subsequence With Limited Sum | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2389.%20Longest%20Subsequence%20With%20Limited%20Sum)|
