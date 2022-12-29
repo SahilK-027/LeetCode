@@ -127,6 +127,7 @@ solutions main(logic)
 | 204 | Count Primes | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/204.%20Count%20Primes)|
 | 206 | Reverse Linked List | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/206.%20Reverse%20Linked%20List)|
 | 208 | Implement Trie (Prefix Tree) | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/208.%20Implement%20Trie%20(Prefix%20Tree))|
+| 213 | House Robber II | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/213.%20House%20Robber%20II)|
 | 215 | Kth Largest Element in an Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/215.%20Kth%20Largest%20Element%20in%20an%20Array)|
 | 217 | Contains Duplicate | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/217.%20Contains%20Duplicate)|
 | 222 | Count Complete Tree Nodes | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/222.%20Count%20Complete%20Tree%20Nodes)|
@@ -237,6 +238,7 @@ solutions main(logic)
 | 1823 | Find the Winner of the Circular Game | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)|
 | 1863 |  Sum of All Subset XOR Totals | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals)|
 | 1910 | Remove All Occurrences of a Substring | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring)|
+| 1962 | Remove Stones to Minimize the Total | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total)|
 | 1963 | Minimum Number of Swaps to Make the String Balanced | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced)|
 | 1971 | Find if Path Exists in Graph | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1971.%20Find%20if%20Path%20Exists%20in%20Graph)|
 | 2095 | Delete the Middle Node of a Linked List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List)|
