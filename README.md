@@ -285,7 +285,7 @@ solutions main(logic)
       <td align="center"><a href="https://github.com/SahilK-027"><img src="https://avatars.githubusercontent.com/u/104154041?v=4" alt="Sahil-k" width="100px;"/><br /><sub><b>Sahil K.</b></sub></a><br /><a href="mailto:sahilkandhare07@gmail.com">💬</a></td>
       <td align="center"><a href="https://github.com/AaryanChaudhari"><img src="https://avatars.githubusercontent.com/u/97241653?s=400&u=1266423cfde0ff30175fea148a46e57a442247e7&v=4" alt="Aaryan-C" width="100px;"/><br /><sub><b>Aaryan Chaudhari</b></sub></a><br /><a href="mailto:aaryananilchaudhari@gmail.com">💬</a></td>
       <td align="center"><a href="https://github.com/nirupamarajeevan"><img src="https://avatars.githubusercontent.com/u/63494544?v=4" alt="Nirupama" width="100px;"/><br /><sub><b>Nirupama R.</b></sub></a><br /><a href="mailto:nirupamarajeevan@gmail.com">💬</a></td>     
-      <td align="center"><a href="https://github.com/shashankbhosagi"><img src="https://avatars.githubusercontent.com/u/78866224?v=4" alt="Shashank B" width="100px;"/><br /><sub><b>SHashank B.</b></sub></a><br /><a href="mailto:srbhosagi@jspmrscoe.edu.in">💬</a></td>
+      <td align="center"><a href="https://github.com/shashankbhosagi"><img src="https://avatars.githubusercontent.com/u/78866224?v=4" alt="Shashank B" width="100px;"/><br /><sub><b>SHashank B.</b></sub></a><br /><a href="mailto:shashankbhosagi0121@gmail.com">💬</a></td>
     </tr>
   </tbody>
 </table>
