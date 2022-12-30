@@ -12,7 +12,7 @@ Welcome to [SahilK-027/Leetcode](https://github.com/SahilK-027/LeetCode)
 
 Being a contributor at Leetcode, we request you to follow the points mentioned below:
 
-- You did your own work.
+- You did your work.
 - No plagiarism is allowed. Any plagiarized work will not be merged.
 - Please follow the repository guidelines and standards mentioned below.
 
@@ -22,16 +22,16 @@ We're glad you're interested in adding LeetCode solutions to the repository.
 Here we'll be explaining how to contribute to LeetCode solutions properly.
 
 ## 📝 Solution for Non-existing Problem in REPOSITORY 📝
-If you have a solution for the problem which is not yet solved then for addig it follow following steps
+If you have a solution for the problem which is not yet solved then for adding it follow the following steps
 
-1. Create a directory `Leetcode/no.PROBLEM_NAME`
-    - For example: if the problem's number is 100, then create a repository 100. Same Tree.
+1. Create a directory `Leetcode/problem_number.PROBLEM_NAME`
+    - For example: if the problem's number is 100, then create a repository 100.Same Tree.
 
-2. Add two files README.md and solution.cpp `(or in that case extention for any other language)` in the directory you have just created.
+2. Add two files README.md and solution.cpp `(or in that case extension for any other language)` in the directory you have just created.
 
 3. In the README.md you have created for the particular problem follow the following code to write problem description.
 ```
-# Probelm Name
+# Problem Name
 ## Description
 
 
@@ -66,7 +66,7 @@ SC : O(n)
 
 /**
  * @author : SahilK-027
- * @brief : Simple directed graph
+ * @brief : Recursion + Memoization
 */
 
 /*
@@ -111,7 +111,7 @@ SC : O(n)
 
 /**
  * @author : SahilK-027
- * @brief : Simple directed graph
+ * @brief : Recursion + Memoization
 */
 
 /*
