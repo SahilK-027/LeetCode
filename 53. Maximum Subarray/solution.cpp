@@ -8,7 +8,7 @@ SC : O(1)
 
 /**
  * @author : SahilK-027
- * @brief : Iterative 
+ * @brief : Iterative Kadane's Algo
 */
 
 class Solution {
