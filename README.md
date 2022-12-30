@@ -190,6 +190,7 @@ solutions main(logic)
 | 704 | Binary Search | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/704.%20Binary%20Search)|
 | 733 | Flood Fill | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/733.%20Flood%20Fill)|
 | 739 | Daily Temperatures | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/739.%20Daily%20Temperatures)|
+| 740 | Delete and Earn | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/740.%20Delete%20and%20Earn)|
 | 779 | K-th Symbol In Grammar | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/779.%20K-th%20Symbol%20in%20Grammar)|
 | 790 | Domino and Tromino Tiling | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/790.%20Domino%20and%20Tromino%20Tiling)|
 | 832 | Flipping an Image | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/832.%20Flipping%20an%20Image)|
@@ -280,5 +281,5 @@ solutions main(logic)
     <td align="center"><a href="https://github.com/SahilK-027"><img src="https://avatars.githubusercontent.com/u/104154041?v=4" alt="Sahil-k" width="100px;"/><br /><sub><b>Sahil K.</b></sub></a><br /><a href="mailto:sahilkandhare07@gmail.com">💬</a></td>
       <td align="center"><a href="https://github.com/AaryanChaudhari"><img src="https://avatars.githubusercontent.com/u/97241653?s=400&u=1266423cfde0ff30175fea148a46e57a442247e7&v=4" alt="Aaryan-C" width="100px;"/><br /><sub><b>Aaryan Chaudhari</b></sub></a><br /><a href="mailto:aaryananilchaudhari@gmail.com">💬</a></td>
     </tr>
-   </tbody>
- </table>
+  </tbody>
+</table>
