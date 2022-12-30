@@ -64,6 +64,7 @@ solutions main(logic)
 | 50 | Pow(x, n) | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/50.%20Pow(x%2C%20n))|
 | 51 | N-Queens | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/51.%20N-Queens)|
 | 52 | N-Queens II | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/52.%20N-Queens%20II)|
+| 53 | Maximum Subarray | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/53.%20Maximum%20Subarray)|
 | 54 | Spiral Matrix | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/54.%20Spiral%20Matrix)|
 | 55 | Jump Game | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/55.%20Jump%20Game)|
 | 58 | Length of Last Word | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/58.%20Length%20of%20Last%20Word)|
