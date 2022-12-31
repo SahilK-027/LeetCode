@@ -1,3 +1,16 @@
+/*
+296 ms
+137.1 MB
+
+TC : O(N * avg L) // where 'N' is the number of strings we want to insert in Trie and 'avgL' is the average length of 'N' strings
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Implementation
+*/
+
 class Trienode{
 public:
     char data;

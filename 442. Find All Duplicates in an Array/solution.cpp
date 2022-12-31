@@ -1,3 +1,17 @@
+/*
+102 ms
+33.8 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Hashing
+*/
+
+
 class Solution {
 public:
     vector<int> findDuplicates(vector<int>& nums) 

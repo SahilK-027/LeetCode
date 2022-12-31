@@ -1,3 +1,16 @@
+/*
+43 ms
+8.3 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : counting
+*/
+
 class Solution {
 public:
     bool check(vector<int>& nums) 

@@ -1,4 +1,17 @@
 /*
+253 ms
+134.6 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Doubly ended queue
+*/
+
+/*
 Approach using doubly ended queue to keep track of maximum element.
 Why Deque ? 
 -> As when we move forward in each window what we are doing is, we are adding one element at back (push_back) and removing one element from front (pop_front). The Deque enables both of these operations to be completed in O(1) time.

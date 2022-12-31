@@ -1,10 +1,17 @@
 /*
-Runtime: 0 ms
-Memory Usage: 6.4 MB
+0 ms
+6.4 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Stack + Push Down Automata Logic
 */
 
 class Solution {
-//Push Down Automata Logic
 public:
     bool isValid(string s) {
         ios_base::sync_with_stdio(false);

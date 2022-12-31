@@ -1,4 +1,17 @@
-///0ms solution
+/*
+0 ms
+6.3 MB
+
+TC: O(N)
+SC: O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Stack
+*/
+
+
 class Solution {
 private:
     /// Function for checking if encountered character is a digit or not

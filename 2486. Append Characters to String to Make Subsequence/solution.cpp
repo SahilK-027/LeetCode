@@ -1,3 +1,16 @@
+/*
+51 ms
+11.7 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : TWO POINTER
+*/
+
 class Solution {
 private:
     int solve(string s, string t, int cnt, int i=0,int j = 0){

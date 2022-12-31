@@ -1,3 +1,16 @@
+/*
+368 ms
+116 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Prefix sum
+*/
+
 // Creating Table 
 /*
 indx        0   1   2   3   4   5
@@ -8,7 +21,6 @@ diff        3   2   2   0   1   4
 ans = 3
 
 We will keep track of sum and count of element for finding average
-
 */
 class Solution {
 public:

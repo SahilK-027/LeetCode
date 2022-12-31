@@ -1,4 +1,14 @@
-// Using Recursion and Backtracking
+/*
+870 ms
+7.5 MB
+
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursion and Backtracking
+*/
+
 class Solution {
 private:
     int getMax(vector<int>& arr){

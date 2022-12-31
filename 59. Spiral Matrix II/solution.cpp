@@ -1,6 +1,14 @@
 /*
-Runtime: 7 ms
-Memory Usage: 6.7 MB
+7 ms
+6.7 MB
+
+TC : O(N*N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Matrix traversal
 */
 /*
     We create a 2D vector containing "n"

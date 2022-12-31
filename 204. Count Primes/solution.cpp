@@ -1,4 +1,16 @@
-// Optimized Sieve of eractothenes
+/*
+0 ms
+12.3 MB
+
+TC : O(n log log n)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : ieve of eractothenes
+*/
+
 
 class Solution {
 public:

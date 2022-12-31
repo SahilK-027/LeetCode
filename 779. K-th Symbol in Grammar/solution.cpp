@@ -1,3 +1,16 @@
+/*
+5 ms
+6 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursive solution
+*/
+
 class Solution {
 public:
     int kthGrammar(int n, int k) {

@@ -1,3 +1,16 @@
+/*
+4 ms
+6.7 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Two pointer
+*/
+
 class Solution {
 public:
     bool halvesAreAlike(string s) {

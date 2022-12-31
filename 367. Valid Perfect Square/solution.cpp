@@ -1,3 +1,16 @@
+/*
+4 ms
+5.9 MB
+
+TC : O(log N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Binary search
+*/
+
 class Solution {
 public:
     bool isPerfectSquare(int num) {

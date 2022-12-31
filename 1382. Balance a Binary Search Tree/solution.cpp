@@ -1,3 +1,16 @@
+/*
+152 ms
+63.5 MB
+
+TC : O(N)
+SC : O(height)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursive solution
+*/
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -11,7 +24,7 @@
  */
 
 // CONSTRUCT INORDERED SORTED ARRAY
-// USE  108. Convert Sorted Array to Binary Search Tree  LOGIC TO SOLVE
+// USE  108. Convert Sorted Array to Binary Search Tree problem's LOGIC TO SOLVE
 class Solution {
 private:
     void inorder(TreeNode* root, vector<int>& v){

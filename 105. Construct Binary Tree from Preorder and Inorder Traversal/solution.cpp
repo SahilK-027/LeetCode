@@ -1,6 +1,15 @@
-// Runtime: 99 ms
-// Memory Usage: 270.1 MB
+/*
+99 ms
+270.1 MB
 
+TC : O(N * N)
+SC : O(height)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursive solution
+*/
 /**
  * Definition for a binary tree node.
  * struct TreeNode {

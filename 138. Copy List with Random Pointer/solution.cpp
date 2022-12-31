@@ -1,5 +1,18 @@
 /*
-// Definition for a Node.
+20 ms
+11.2 MB
+
+TC: O(N)
+SC: O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Iterative
+*/
+
+/*
+Definition for a Node.
 class Node {
 public:
     int val;
@@ -21,8 +34,6 @@ class Solution {
     2. create Hash map
     3. Copy random pointers by using Hash Map
     */
-// TC: O(N)
-// SC: O(N)
     
 private: 
     void insertAtTail(Node* &head,Node* &tail,int data){

@@ -1,4 +1,16 @@
-// O(n^2) logic
+/*
+4 ms
+9.3 MB
+
+TC : O(N^2)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : String traversal 
+*/
+
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& s) {
@@ -26,7 +38,3 @@ public:
         return ans;
     }
 };
-
-
-
-// o(n) logic

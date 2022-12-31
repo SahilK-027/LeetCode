@@ -1,4 +1,17 @@
 /*
+78 ms
+25 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Math
+*/
+
+/*
 LOGIC:
 1. REVERSE FIRST N-K
 2. REVERSE LATS K

@@ -1,3 +1,11 @@
+/*
+18 ms
+9.5 MB
+
+TC : O(N^2)
+SC : O(1)
+*/
+
 /**
  * @author : Sahilk-027
  * @brief : Sorting

@@ -1,9 +1,15 @@
-// Runtime: 0 ms
-// Memory Usage: 6.2 MB
+/*
+0 ms
+6.2 MB
 
-// Optimized recursive solution
-// TC - O(N)
+TC : O(N)
+SC : O(N)
+*/
 
+/**
+ * @author : SahilK-027
+ * @brief : Recursive solution
+*/
 
 class Solution {
 private:

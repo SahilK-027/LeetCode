@@ -1,3 +1,16 @@
+/*
+0 ms 
+7.3 MB
+
+TC : O(N!)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursion+ BACKTRACKING + Optimization
+*/
+
 class Solution {
 private:
     bool isSafe(vector<int>& Leftrow,  vector<int>& upper_diagonal,  vector<int>& lower_diagonal, int row, int col, int n){

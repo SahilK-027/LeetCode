@@ -1,3 +1,16 @@
+/*
+3 ms
+7.2 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Iteration
+*/
+
 class Solution {
 public:
     double average(vector<int>& salary) {

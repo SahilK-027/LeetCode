@@ -1,6 +1,15 @@
-// Runtime: 16 ms
-// Memory Usage: 11.8 MB
+/*
+16 ms
+11.8 MB
 
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Iteration
+*/
 /**
  * Definition for singly-linked list.
  * struct ListNode {

@@ -1,3 +1,16 @@
+/*
+120 ms
+27.4 MB
+
+TC : O(log N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Iterative
+*/
+
 class Solution {
 public:
     int search(vector<int>& nums, int target) {

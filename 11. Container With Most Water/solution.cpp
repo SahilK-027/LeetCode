@@ -1,9 +1,16 @@
 /*
-Runtime: 107 ms
-Memory Usage: 59 MB
+107 ms
+59 MB
+
+TC : O(N)
+SC : O(1)
 */
 
-// Two pointer approach
+/**
+ * @author : SahilK-027
+ * @brief : Two pointer approach
+*/
+
 class Solution {
 public:
     int maxArea(vector<int>& height) {

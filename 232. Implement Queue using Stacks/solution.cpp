@@ -1,3 +1,16 @@
+/*
+4 ms
+7.1 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Two stack = Queue
+*/
+
 class MyQueue {
 private:
     stack<int> input;

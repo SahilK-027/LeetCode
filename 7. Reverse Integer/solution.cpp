@@ -1,6 +1,14 @@
 /*
-Runtime: 3 ms
-Memory Usage: 5.7 MB
+3 ms
+5.7 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Iterative solution
 */
 class Solution {
 public:
@@ -12,6 +20,7 @@ public:
             ans = ans * 10 + l_digit;
             x = x / 10;
         }
+        // Checking bounds
         if(ans >= -2147483648 && ans <= 2147483647){
             return ans; 
         }

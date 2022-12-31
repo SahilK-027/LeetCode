@@ -1,3 +1,16 @@
+/*
+14 ms
+8.4 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : HashMap
+*/
+
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {

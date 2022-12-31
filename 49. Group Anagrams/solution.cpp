@@ -1,3 +1,16 @@
+/*
+64 ms
+20.8 MB
+
+TC : O(N log N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Hashmap + sorting
+*/
+
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& s) {

@@ -1,3 +1,16 @@
+/*
+158 ms
+54.2 MB
+
+TC : O(2^N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursive solution + BT
+*/
+
 // APPROACH
 /*
 1. Find all subsets 

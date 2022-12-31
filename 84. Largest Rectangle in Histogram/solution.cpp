@@ -1,8 +1,17 @@
-// Runtime: 371 ms
-// Memory Usage: 81.3 MB
-
 /*
-// To get element and
+371 ms
+81.3 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Stack
+*/
+/*
+To get element and
 Finding next smaller element's index (Using stack)
 Step 1: 1. For every element find the next smaller element.
         2. If no next smaller element found assume it as -1.

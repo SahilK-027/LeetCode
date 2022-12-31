@@ -1,3 +1,17 @@
+/*
+33 ms
+11.1 MB
+
+TC : O(N log N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Hashing + Sort
+*/
+
+
 class Solution {
 public:
     vector<string> findRelativeRanks(vector<int>& arr) {

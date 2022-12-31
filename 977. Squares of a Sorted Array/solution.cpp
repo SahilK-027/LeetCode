@@ -1,3 +1,16 @@
+/*
+39 ms
+25.9 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Two pointers
+*/
+
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& arr) {

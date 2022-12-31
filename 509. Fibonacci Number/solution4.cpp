@@ -1,4 +1,16 @@
-// Tabularization + space optimization
+/*
+0 ms
+5.8 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Tabularization + space optimization
+*/ 
+
 class Solution {
 public:
     int solve(int n){

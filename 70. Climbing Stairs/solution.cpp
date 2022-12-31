@@ -1,13 +1,16 @@
 /*
-* 0 ms
-* 6.2 mb
-*/
-/**
- * @author : Sahilk-027
- * @brief : Using next_free_space array
+0 ms
+6.2 mb
+
+TC : O(N)
+SC : O(N)
 */
 
-// Inclusion exclusion logic
+/**
+ * @author : Sahilk-027
+ * @brief : Using next_free_space array + Inclusion exclusion logic + Recursion + DP 
+*/
+
 class Solution {
 private:
     int solve(int n, vector<int>& dp, int stair = 0){

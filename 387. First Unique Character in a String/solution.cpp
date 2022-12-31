@@ -1,3 +1,16 @@
+/*
+19 ms
+11.3 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Iterative + Cashing
+*/
+
 class Solution {
 private:
     int search(string s, char ans){

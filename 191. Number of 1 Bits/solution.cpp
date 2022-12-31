@@ -1,3 +1,16 @@
+/*
+0 ms
+5.9 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Math
+*/
+
 class Solution {
 public:
     int hammingWeight(uint32_t n) {

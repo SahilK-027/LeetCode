@@ -1,3 +1,16 @@
+/*
+4 ms
+7 MB
+
+TC : O(2^N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursive solution
+*/
+
 class Solution {
 private:
     void solve(vector<int>& arr, int& grand_total, int xorAns, int i =0){

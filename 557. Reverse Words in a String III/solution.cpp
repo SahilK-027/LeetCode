@@ -1,4 +1,17 @@
 /*
+36 ms
+11 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Stack
+*/
+
+/*
 Approach:
 We know that stack is LIFO data structure so we can use it to reverse any word
 */

@@ -1,6 +1,14 @@
 /*
-Runtime: 0 ms
-Memory Usage: 6.3 MB
+0 ms
+6.3 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursive Approach
 */
 
 class Solution {

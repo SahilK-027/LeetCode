@@ -1,4 +1,16 @@
-// Sort + Two pointer  logic
+/*
+102 ms
+52.6 MB
+
+TC : O(N log N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Sort + Two pointer
+*/
+
 class Solution {
 public:
     long long dividePlayers(vector<int>& arr) {

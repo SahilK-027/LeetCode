@@ -1,4 +1,16 @@
-// O(n2) solution
+/*
+171 ms
+23.5 MB
+
+TC : O(N^2)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Sorting + Two pointers
+*/
+
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& arr) {

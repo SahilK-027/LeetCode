@@ -1,3 +1,17 @@
+/*
+0 ms
+9 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Two pointers
+*/
+
+
 class Solution {
 public:
     int compress(vector<char>& chars) {
@@ -30,7 +44,6 @@ public:
                     ans_index++;
                 }
             }
-            
             
             i=j;//->Our job for 1st character is done now proceed further
         }

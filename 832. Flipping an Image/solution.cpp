@@ -1,3 +1,16 @@
+/*
+3ms
+8.9 MB
+
+TC : O(N ^ 2)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Matrix traversal
+*/
+
 class Solution {
 public:
     vector<vector<int>> flipAndInvertImage(vector<vector<int>>& image) {

@@ -1,3 +1,16 @@
+/*
+3 ms
+5.9 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursion + DP
+*/
+
 class Solution {
     bool solve(int& n, unordered_map<int, int>& mp){
         // If number gets reduced to 1 return true

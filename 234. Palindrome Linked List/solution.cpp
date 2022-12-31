@@ -1,3 +1,16 @@
+/*
+505 ms
+118.3 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Two pointer (Reverse LL from middle onwards solution)
+*/
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -9,9 +22,6 @@
  * };
  */
 class Solution {
-    // Reverse LL from middle onwards solution
-    // TC-> O(N) 
-    // SC-> O(1)
 private:
     
 public:

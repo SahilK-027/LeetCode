@@ -1,8 +1,16 @@
 /*
-Runtime: 4 ms
-Memory Usage: 7.6 MB
+4 ms
+7.6  MB
+
+TC : O(N!)
+SC : O(1)
 */
-//Using c++ stl next_permutation Function
+
+/**
+ * @author : SahilK-027
+ * @brief : Using c++ stl next_permutation Function
+*/
+
 class Solution {
 public:
     vector<vector<int>> permute(vector<int>& nums) {

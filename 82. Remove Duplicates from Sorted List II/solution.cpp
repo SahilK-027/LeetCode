@@ -1,5 +1,15 @@
-// Runtime: 10 ms
-// Memory Usage: 11.3 MB
+/*
+10 ms
+11.3 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursion
+*/
 
 /**
  * Definition for singly-linked list.
@@ -15,8 +25,6 @@ class Solution {
     /*Only solve one case of duplicate head and recursion will take care of remaining list*/
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(nullptr);
         // Base Case
         if(head == NULL || head->next ==NULL){
             return head;

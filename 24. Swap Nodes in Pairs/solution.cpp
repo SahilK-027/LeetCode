@@ -1,6 +1,14 @@
 /*
-Runtime: 0 ms
-Memory Usage: 7.7 MB
+0 ms
+7.7 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursive solution
 */
 /**
  * Definition for singly-linked list.

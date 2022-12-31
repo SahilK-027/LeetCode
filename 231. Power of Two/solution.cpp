@@ -1,5 +1,18 @@
 /*
-Apply the logic of counting number of set bits  
+3 ms
+6 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Math
+*/
+
+/*
+logic of counting number of set bits  
 */
 class Solution {
 public:

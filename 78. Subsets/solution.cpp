@@ -1,28 +1,40 @@
-// Runtime: 12 ms
-// Memory Usage: 16.8 MB
+/*
+0 ms
+7.1 MB
 
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursion + BACKTRACKING 
+*/
+
+
+// Space wise as well as time wise optimal solution using backtracking
 class Solution {
 private:
-    void solution(vector<int> nums,vector<vector<int>> &powerset,vector<int> subset, int i){
-        //Base case
-        if(i>=nums.size()){
-            powerset.push_back(subset); //Storing all the subsets to powerset
+    void solve(vector<int>& arr, vector<vector<int>>& ans, vector<int>& temp, int i = 0){
+        if(i == arr.size()){
+            ans.push_back(temp);
             return;
-        }
-        //Exclude
-        solution(nums,powerset,subset,i+1);
-        
-        //Include
-        int element = nums[i]; //Store the number in subset
-        subset.push_back(element);
-        solution(nums,powerset,subset,i+1);
+        } 
+        // Include
+        temp.push_back(arr[i]);
+        solve(arr, ans, temp, i+1);
+        // Back Tracking
+        temp.pop_back();
+
+
+        // Exclude
+        solve(arr, ans, temp, i+1);
     }
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        int start_index = 0;
-        vector<vector<int>> powerset;
-        vector<int> subset;
-        solution(nums,powerset,subset,start_index);
-        return powerset;
+    vector<vector<int>> subsets(vector<int>& arr) {
+        vector<vector<int>> ans;
+        vector<int> temp;
+        solve(arr, ans, temp);
+        return ans;
     }
 };

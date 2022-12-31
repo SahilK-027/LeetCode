@@ -1,9 +1,16 @@
 /*
-Runtime: 16 ms
-Memory Usage: 5.9 MB
+16 ms
+5.9 MB
+
+TC : O(N)
+SC : O(1)
 */
 
-//Using the logic of reverse an integer
+/**
+ * @author : SahilK-027
+ * @brief : Using the logic of reverse an integer
+*/
+
 class Solution {
 public:
     bool isPalindrome(int x) {

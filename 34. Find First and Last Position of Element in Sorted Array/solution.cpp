@@ -1,5 +1,15 @@
-// UPPERBOUND AND LOWERBOUND ALGORITHM
-// TC: O(log N)
+/*
+15 ms
+10.7 MB
+
+TC : O(log N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Binary search 
+*/
 class Solution {
 public:
     vector<int> searchRange(vector<int>& arr, int t) {

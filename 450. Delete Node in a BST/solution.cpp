@@ -1,3 +1,18 @@
+/*
+71 ms
+32.7 MB
+
+TC : O(Height of the BST)
+SC : O(Height of the BST)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursive solution
+*/
+
+
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -20,7 +35,7 @@ private:
     }
     
     TreeNode* solve(TreeNode*root,int key){
-                // Base case
+        // Base case
         if(root == NULL){
             return root;
         }

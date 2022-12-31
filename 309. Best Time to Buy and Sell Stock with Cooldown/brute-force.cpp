@@ -1,5 +1,17 @@
-// Recursive solution
-// TC : O(2^n)
+/**
+ * TLE
+ */
+
+/**
+ * @author : Sahilk-027
+ * @brief : Recursion Logic
+ *          TC : O(2 ^ N)
+*/
+
+
+/*
+⚠️ This solution will require optimization else it will give TLE but its added here to understand how solution looked before optimization.
+*/
 class Solution {
 private:
     int solve(int i, bool buy, vector<int>& prices){

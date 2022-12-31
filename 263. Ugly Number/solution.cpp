@@ -1,3 +1,17 @@
+/*
+13 ms
+5.8 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Math
+*/
+
+
 class Solution {
 private:
     bool checkPrimeFact(int &n){

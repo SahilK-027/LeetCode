@@ -1,6 +1,9 @@
 /*
 Runtime: 15ms
 Memory: 18 MB
+
+TC : O(N)
+SC: O(1)
 */
 
 /**

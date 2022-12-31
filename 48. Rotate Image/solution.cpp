@@ -1,6 +1,14 @@
 /*
-Runtime: 5 ms
-Memory Usage: 7.2 MB
+5 ms
+7.2 MB
+
+TC : O(N^2)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief :  Two pointer 
 */
 
 class Solution {

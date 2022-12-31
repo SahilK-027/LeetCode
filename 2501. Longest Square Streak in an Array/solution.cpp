@@ -1,3 +1,11 @@
+/*
+621 ms
+138.3 MB
+
+TC : O(N^2)
+SC : O(N)
+*/
+
 /**
  * @author : Sahilk-027
  * @brief : Using hashmap to keep track of element exists in array so that we can fecth if the square of element exists in array in O(1)

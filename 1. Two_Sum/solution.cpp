@@ -1,6 +1,14 @@
 /*
-Runtime: 23 ms
-Memory Usage: 10.9 MB
+8 ms
+11 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : HashMap
 */
 class Solution {
 public:

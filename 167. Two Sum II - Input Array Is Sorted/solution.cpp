@@ -1,3 +1,16 @@
+/*
+38 ms
+15.6 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Two pointer
+*/
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& arr, int t) {

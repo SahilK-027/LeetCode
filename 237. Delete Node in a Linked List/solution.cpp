@@ -1,3 +1,16 @@
+/*
+10 ms
+7.7 MB
+
+TC : O(N)
+SC : O(height)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Linked list
+*/
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {

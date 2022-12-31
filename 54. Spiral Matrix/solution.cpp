@@ -1,6 +1,14 @@
 /*
-Runtime: 3 ms
-Memory Usage: 6.9 MB
+3 ms
+6.9 MB
+
+TC : O(N^2)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Matrix traversal + Two pointers
 */
 class Solution {
 public:

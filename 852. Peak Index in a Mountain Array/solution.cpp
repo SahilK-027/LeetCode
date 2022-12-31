@@ -1,3 +1,16 @@
+/*
+167 ms
+59.3 MB
+
+TC : O(log N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Binary search 
+*/
+
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {

@@ -1,3 +1,16 @@
+/*
+9 ms
+10.4 MB
+
+TC : O(N) // N -> No. of nodes
+SC : O(height)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursive solution
+*/
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {

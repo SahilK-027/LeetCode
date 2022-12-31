@@ -1,5 +1,17 @@
-// Monotonically decreasing stack
-// Stack will contain index of the elements
+/*
+314 ms
+103.1 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Monotonically decreasing stack
+            Stack will contain index of the elements
+*/
+
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& arr) {

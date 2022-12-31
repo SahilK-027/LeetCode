@@ -1,3 +1,16 @@
+/*
+34 ms
+7.2 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Hashing
+*/
+
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {

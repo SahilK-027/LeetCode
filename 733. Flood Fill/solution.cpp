@@ -1,3 +1,16 @@
+/*
+7 ms
+14.1 MB
+
+TC : O(M * N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursive solution
+*/
+
 class Solution {
 private:
     void solve(vector<vector<int>>& image, int sr, int sc,int old_color, int new_color, int& rows, int& cols){

@@ -1,7 +1,16 @@
 /*
-Runtime: 3 ms
-Memory Usage: 6.2 MB
+3 ms
+6.2 MB
+
+TC : O(x^n/2)
+SC : O(1)
 */
+
+/**
+ * @author : SahilK-027
+ * @brief : Fast exponential 
+*/
+
 class Solution {
 public:
     double myPow(double x, int n) {

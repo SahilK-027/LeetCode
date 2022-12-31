@@ -1,3 +1,16 @@
+/*
+12 ms
+8.9 MB
+
+TC : O(log N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Binary seach
+*/
+
 class Solution {
 public:
     int findPeakElement(vector<int>& arr) {

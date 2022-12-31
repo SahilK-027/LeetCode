@@ -1,3 +1,16 @@
+/*
+37 ms
+6.6 MB
+
+TC : O(9^(N*N))
+SC : O(N*N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursion + BACKTRACKING 
+*/
+
 class Solution {
 private:
     bool isSafe(int k , int row, int col,vector<vector<char>>& board){

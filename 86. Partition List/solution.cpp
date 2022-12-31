@@ -1,5 +1,15 @@
-// Runtime: 12 ms
-// Memory Usage: 10.5 MB
+/*
+12 ms
+10.5 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : List Traversal + Iteration
+*/
 
 /**
  * Definition for singly-linked list.

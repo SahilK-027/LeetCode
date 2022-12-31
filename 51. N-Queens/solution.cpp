@@ -1,3 +1,17 @@
+/*
+137 ms
+50.2 MB
+
+TC : O(N!)
+SC : O(N^2)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursion+ BACKTRACKING 
+*/
+
+
 class Solution {
 private:
     bool isSafe(vector<string>& chessBoard, int& row, int& col, int& n){

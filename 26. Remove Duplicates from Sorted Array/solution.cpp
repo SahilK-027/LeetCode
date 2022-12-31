@@ -1,6 +1,14 @@
 /*
-Runtime: 11 ms
-Memory Usage: 18.5 MB
+11 ms
+18.5 MB MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Two pointer
 */
 
 /*

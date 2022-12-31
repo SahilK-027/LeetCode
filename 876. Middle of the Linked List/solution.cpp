@@ -1,3 +1,16 @@
+/*
+8 ms
+7.1 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Floyd's Cycle Detection
+*/
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {

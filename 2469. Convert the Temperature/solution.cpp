@@ -1,3 +1,16 @@
+/*
+3 ms
+6.1 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Math
+*/
+
 class Solution {
 public:
     vector<double> convertTemperature(double celsius) {

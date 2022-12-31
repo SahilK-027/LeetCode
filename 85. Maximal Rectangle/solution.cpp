@@ -1,5 +1,15 @@
-// Runtime: 56 ms
-// Memory Usage: 16 MB
+/*
+56 ms
+16 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Stack
+*/
 
 class Solution {
 private:

@@ -1,4 +1,16 @@
-//Two pointer approach O(N)
+/*
+164 ms
+93.4 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Two pointer approach
+*/
+
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {

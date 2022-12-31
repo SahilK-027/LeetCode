@@ -1,5 +1,16 @@
-// Runtime: 0 ms
-// Memory Usage: 6.1 MB
+/*
+0 ms
+6.1 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Two pointer + String Matching
+*/
+
 class Solution {
 public:
     int strStr(string haystack, string needle) {

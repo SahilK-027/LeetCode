@@ -1,6 +1,14 @@
 /*
-Runtime: 23 ms
-Memory Usage: 8.9 MB
+23 ms
+8.9 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Iteration
 */
 
 class Solution {

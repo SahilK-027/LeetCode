@@ -1,11 +1,14 @@
 /*
 46 ms
 19.9 MB
+
+TC: O(N)
+SC: O(N)
 */
 
 /**
  * @author : SahilK-027
- * @brief : Recursive solution 
+ * @brief : Recursive solution + DP
 */
 
 class Solution {

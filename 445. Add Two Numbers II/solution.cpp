@@ -1,3 +1,17 @@
+/*
+92 ms
+71.3 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Reverse LL
+*/
+
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {

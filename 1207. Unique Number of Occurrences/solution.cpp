@@ -1,3 +1,16 @@
+/*
+0 ms
+8.3 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Hashing
+*/
+
 class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) {

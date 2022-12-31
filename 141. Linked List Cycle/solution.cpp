@@ -1,3 +1,16 @@
+/*
+19 ms
+8.1 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Iterative
+*/
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -6,6 +19,7 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+
 class Solution {
     //Floyd’s Cycle Finding Algorithm
 public:

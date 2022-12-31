@@ -1,6 +1,14 @@
 /*
-Runtime: 8 ms
-Memory Usage: 10.9 MB
+8 ms
+10.9 MB
+
+TC : O(log N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Binary search
 */
 
 class Solution

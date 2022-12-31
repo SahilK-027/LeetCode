@@ -1,5 +1,15 @@
-// Runtime: 130 ms
-// Memory Usage: 270.1 MB
+/*
+130 ms
+270.1 MB
+
+TC : O(N^2)
+SC : O(height)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursive solution
+*/
 
 /**
  * Definition for a binary tree node.

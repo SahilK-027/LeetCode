@@ -1,9 +1,17 @@
 /*
-Runtime: 24 ms
-Memory Usage: 13.3 MB
-1. Record all the positions where there is 0.
-2. Update in matrix.
+24 ms
+13.3 MB
+
+TC : O(N * N)
+SC : O(N)
 */
+
+/**
+ * @author : SahilK-027
+ * @brief : 1. Record all the positions where there is 0.
+            2. Update in matrix.
+*/
+
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {

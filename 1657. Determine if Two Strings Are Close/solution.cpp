@@ -1,3 +1,16 @@
+/*
+269 ms
+20.7 MB
+
+TC : O(N log M)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Hashing + Mapping
+*/
+
 /// Intution : For answer to be true 
 /*
 1. Two strings must have same length

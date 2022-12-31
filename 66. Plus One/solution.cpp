@@ -1,8 +1,16 @@
 /*
-Runtime: 4 ms
-Memory Usage: 8.5 MB
+4 ms
+8.5 MB
+
+TC : O(N)
+SC : O(1)
 */
-//Similar to add two arrays
+
+/**
+ * @author : SahilK-027
+ * @brief : Similar to add two arrays
+*/
+
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {

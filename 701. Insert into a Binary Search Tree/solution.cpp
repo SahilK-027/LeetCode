@@ -1,3 +1,16 @@
+/*
+99 ms
+57 MB
+
+TC : O(N)
+SC : O(height)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursive solution
+*/
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -19,12 +32,12 @@ class Solution {
         // Data greater than root
         if (val > root->val)
         {   
-            root->right = insertIntoBST(root->right, val);
+            root->right = solve(root->right, val);
         }
         else
         {
             // Data smaller than root
-            root->left = insertIntoBST(root->left, val);
+            root->left = solve(root->left, val);
         }
         return root;
     }

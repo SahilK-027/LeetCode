@@ -1,3 +1,13 @@
+/*
+3 ms
+6.6 MB
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Iterative
+*/
+
 class Solution {
 public:
     string removeOccurrences(string s, string part) 

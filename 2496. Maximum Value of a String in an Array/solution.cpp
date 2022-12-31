@@ -1,3 +1,11 @@
+/*
+3 ms
+7.7 MB
+
+TC : O(N^2)
+SC : O(1)
+*/
+
 /**
  * @author : Sahilk-027
  * @brief : Simple brute force

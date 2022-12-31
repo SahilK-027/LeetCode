@@ -1,3 +1,16 @@
+/*
+3 ms
+5.9 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursive solution
+*/
+
 class Solution {
 private:
     int solve(int n, int ans = 0){

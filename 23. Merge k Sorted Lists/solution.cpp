@@ -1,6 +1,14 @@
 /*
-Runtime: 163 ms
-Memory Usage: 13.1 MB
+163 ms
+13.1 MB
+
+TC : O(N^2)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Brute Force
 */
 
 /**

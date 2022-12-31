@@ -1,3 +1,16 @@
+/*
+7 ms
+12.7 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Using morris traversal
+*/
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -10,9 +23,6 @@
  * };
  */
 
-// Using morris traversal
-// TC : O(N)
-// SC : O(1)
 class Solution {
 private:
     TreeNode* findPredecessor(TreeNode* curr){

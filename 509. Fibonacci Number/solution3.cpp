@@ -1,4 +1,16 @@
-// Tabularization
+/*
+0 ms
+6 MB
+
+TC : O(N)
+SC : O(N)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Recursive solution + Tabularization
+*/ 
+
 class Solution {
 public:
     int solve(int n){

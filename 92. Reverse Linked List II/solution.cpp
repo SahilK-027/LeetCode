@@ -1,6 +1,17 @@
 // Runtime: 3 ms
 // Memory Usage: 7.5 MB
+/*
+3 ms
+7.5 MB
 
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : List traversal  + Iteration
+*/
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -11,6 +22,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {

@@ -1,4 +1,16 @@
-//Two pointer approach
+/*
+136 ms
+276.8 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Two pointer approach
+*/
+
 class Solution {
 public:
     bool isSubsequence(string s, string t) {

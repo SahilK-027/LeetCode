@@ -1,3 +1,16 @@
+/*
+56 ms
+23.3 MB
+
+TC : O(N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Iterative
+*/
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -8,8 +21,6 @@
  * };
  */
 
-// TC O(N)
-// Iterative
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* a, TreeNode* b) {
@@ -27,25 +38,6 @@ public:
                 // If root found break and come out
                 break;
             }
-        }
-        return root;
-    }
-};
-
-
-// TC O(N)
-// RECURSIVE
-class Solution {
-public:
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* a, TreeNode* b) {
-        if(root == NULL){
-            return NULL;
-        }
-        if(root->val < a->val && root->val < b->val){
-            return lowestCommonAncestor(root->right, a,b);
-        }
-        if(root->val > a->val && root->val > b->val){
-            return lowestCommonAncestor(root->left, a,b);
         }
         return root;
     }

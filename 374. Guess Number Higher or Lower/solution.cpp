@@ -1,3 +1,16 @@
+/*
+2 ms
+6.1 MB
+
+TC : O(log N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Binary search
+*/
+
 /** 
  * Forward declaration of guess API.
  * @param  num   your guess

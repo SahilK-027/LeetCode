@@ -1,3 +1,16 @@
+/*
+323 ms
+8.6 MB
+
+TC : O(N^3)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Iteration
+*/
+
 class Solution {
 public:
     int arithmeticTriplets(vector<int>& nums, int diff) {

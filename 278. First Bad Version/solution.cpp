@@ -1,3 +1,16 @@
+/*
+3 ms
+6 MB
+
+TC : O(log N)
+SC : O(1)
+*/
+
+/**
+ * @author : SahilK-027
+ * @brief : Binary search
+*/
+
 // The API isBadVersion is defined for you.
 // bool isBadVersion(int version);
 
