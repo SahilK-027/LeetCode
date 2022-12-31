@@ -1,3 +1,19 @@
+/*
+1 ms
+42.7 MB
+
+TC : O(n)
+SC : O(n)
+*/
+
+/**
+ * @author : yashlondhe90960
+ * @brief : Hashing
+*/
+/*
+NOTE: I used hashing approach, where first i took the complement of the numbers with the target value and checked whether the hashmap contains it.
+*/
+
 public class Solution {
     public int[] twoSum(int[] numbers, int target) {
 
@@ -23,14 +39,3 @@ public class Solution {
         
     }
 }
-/*
-1 ms
-42.7 MB
-
-TC : O(n)
-*/
-
-/**
- * @author : yashlondhe90960
- * @brief : Hashing
-*/
