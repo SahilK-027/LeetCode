@@ -148,7 +148,8 @@ solutions main(logic)
 | 268 | Missing Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/268.%20Missing%20Number)|
 | 273 | Integer to English Words | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/273.%20Integer%20to%20English%20Words)|
 | 278 | First Bad Version | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/278.%20First%20Bad%20Version)|
-| 283 | Move Zeroes | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/283.%20Move%20Zeroes)|
+| 283 | Move Zeroes | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/290.%20Word%20Pattern/README.md)|
+| 290 | Word Pattern | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/283.%20Move%20Zeroes)|
 | 301 | Remove Invalid Parentheses | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/301.%20Remove%20Invalid%20Parentheses)|
 | 309 | Best Time to Buy and Sell Stock with Cooldown | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)|
 | 301 | Remove Invalid Parentheses | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/301.%20Remove%20Invalid%20Parentheses)|
