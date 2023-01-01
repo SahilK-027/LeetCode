@@ -80,8 +80,9 @@ NOTE: YOU CAN EXPALIN YOUR APPROACH HERE
 ```
 🏁 [template.zip](https://github.com/SahilK-027/LeetCode/files/10328767/PROBLEM_NO.Problem_Title.zip)
 <br/>
+<br/>
 
-### 📜 Adding your new solution to the list 📜
+5. Adding your new solution to the list
 
 Great! You've added your solution. Now, you'll have to add it to `leetcode/README.md`.\
 Please use numerical order. For example: if the solution's number is `100`, add your solution after `99`, if available.
