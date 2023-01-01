@@ -73,6 +73,14 @@ SC : O(n)
 NOTE: YOU CAN EXPALIN YOUR APPROACH HERE
 */
 ```
+``` diff
+@@ Just use this starter file @@
+```
+[PROBLEM_NO.Problem_Title.zip](https://github.com/SahilK-027/LeetCode/files/10328765/PROBLEM_NO.Problem_Title.zip)
+<br/>
+<br/>
+<br/>
+
 ### 📜 Adding your new solution to the list 📜
 
 Great! You've added your solution. Now, you'll have to add it to `leetcode/README.md`.\
