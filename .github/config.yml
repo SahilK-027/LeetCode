@@ -3,8 +3,9 @@
 newIssueWelcomeComment: >
   ❤️ Thanks for opening your first issue here! Be sure to follow the issue template!
 
-newPRWelcomeComment: >
-  ❤️ Thanks for opening this pull request! Please check out our contributing guidelines.
+newPRWelcomeComment: |
+  💖 Thanks for opening this pull request! 💖
+  Make sure you have read [contribution guidelines](https://github.com/SahilK-027/LeetCode/blob/main/CONTRIBUTING.md)
 
 firstPRMergeComment: >
-  Congrats on merging your first pull request! We here at behaviorbot are proud of you! 🎉🎉🎉
+  Congrats on merging your first pull request! We are proud of you! 🎉🎉🎉
