@@ -1,8 +1,9 @@
 # LeetCode
 
 ## C++ solutions for LeetCode
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffa115&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Happy+LeetCoding!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Happy+LeetCoding!;)](https://git.io/typing-svg)
 
 
 ```cpp
