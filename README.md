@@ -2,8 +2,7 @@
 
 ## Solutions for LeetCode
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffa115&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Happy+LeetCoding!;)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffa115&size=25&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+👨🏻‍💻+Happy+LeetCoding!;)](https://git.io/typing-svg)
 
 ```cpp
 
