@@ -130,6 +130,7 @@ solutions main(logic)
 | 203 | Remove Linked List Elements | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/203.%20Remove%20Linked%20List%20Elements)|
 | 204 | Count Primes | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/204.%20Count%20Primes)|
 | 206 | Reverse Linked List | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/206.%20Reverse%20Linked%20List)|
+| 207 | Course Schedule | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/207.%20Course%20Schedule)|
 | 208 | Implement Trie (Prefix Tree) | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/208.%20Implement%20Trie%20(Prefix%20Tree))|
 | 213 | House Robber II | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/213.%20House%20Robber%20II)|
 | 215 | Kth Largest Element in an Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/215.%20Kth%20Largest%20Element%20in%20an%20Array)|
