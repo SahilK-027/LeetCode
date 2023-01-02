@@ -180,6 +180,7 @@ solutions main(logic)
 | 509 | Fibonacci Number | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/509.%20Fibonacci%20Number)|
 | 513 | Find Bottom Left Tree Value | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/513.%20Find%20Bottom%20Left%20Tree%20Value)|
 | 515 | Find Largest Value in Each Tree Row | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)|
+| 520 | Detect Capital | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/520.%20Detect%20Capital)|
 | 538 | Convert BST to Greater Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/538.%20Convert%20BST%20to%20Greater%20Tree)|
 | 543 | Diameter of Binary Tree | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/543.%20Diameter%20of%20Binary%20Tree)|
 | 557 | Reverse Words in a String III | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/557.%20Reverse%20Words%20in%20a%20String%20III)|
