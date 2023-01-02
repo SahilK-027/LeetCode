@@ -1,6 +1,6 @@
 # LeetCode
 
-## C++ solutions for LeetCode
+## Solutions for LeetCode
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffa115&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Happy+LeetCoding!;)](https://git.io/typing-svg)
 
@@ -24,9 +24,9 @@ solutions main(logic)
 }
 ```
 
-
-
 [![Travis](https://img.shields.io/badge/language-C++-red.svg)](https://developer.apple.com/)
+[![Travis](https://img.shields.io/badge/language-java-orange.svg)](https://developer.apple.com/)
+
 ```diff
 @@  Problems Solved So Far,... @@
 ```
