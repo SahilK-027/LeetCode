@@ -160,5 +160,3 @@ NOTE: YOU CAN EXPALIN YOUR APPROACH HERE
 By now you are ready to make a **PULL REQUEST**
 
 <br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Happy+LeetCoding!;)](https://git.io/typing-svg)
