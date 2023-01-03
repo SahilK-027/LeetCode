@@ -212,6 +212,7 @@ solutions main(logic)
 | 921 | Minimum Add to Make Parentheses Valid | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid)|
 | 931 | Minimum Falling Path Sum | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/931.%20Minimum%20Falling%20Path%20Sum)|
 | 938 | Range Sum of BST | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/938.%20Range%20Sum%20of%20BST)|
+| 944 | Delete Columns to Make Sorted | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/944.%20Delete%20Columns%20to%20Make%20Sorted)|
 | 958 | Check Completeness of a Binary Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/958.%20Check%20Completeness%20of%20a%20Binary%20Tree)|
 | 977 | Squares of a Sorted Array | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/977.%20Squares%20of%20a%20Sorted%20Array)|
 | 980 | Unique Paths III | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/980.%20Unique%20Paths%20III)|
