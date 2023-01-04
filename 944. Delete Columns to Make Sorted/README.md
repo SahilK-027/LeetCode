@@ -1,52 +1,28 @@
-# Delete Columns to Make Sorted
+# Minimum Rounds to Complete All Tasks
 ## Description
 
-You are given an array of n strings strs, all of the same length.
+You are given a 0-indexed integer array tasks, where tasks[i] represents the difficulty level of a task. In each round, you can complete either 2 or 3 tasks of the same difficulty level.
 
-The strings can be arranged such that there is one on each line, making a grid. For example, strs = ["abc", "bce", "cae"] can be arranged as:
-
-```
-abc
-bce
-cae
-```
-
-You want to delete the columns that are not sorted lexicographically. In the above example (0-indexed), columns 0 ('a', 'b', 'c') and 2 ('c', 'e', 'e') are sorted while column 1 ('b', 'c', 'a') is not, so you would delete column 1.
-
-Return the number of columns that you will delete.
+Return the minimum rounds required to complete all the tasks, or -1 if it is not possible to complete all the tasks.
  
 
 Example 1:
 
 ```
-Input: strs = ["cba","daf","ghi"]
-Output: 1
-Explanation: The grid looks as follows:
-  cba
-  daf
-  ghi
-Columns 0 and 2 are sorted, but column 1 is not, so you only need to delete 1 column.
+Input: tasks = [2,2,3,3,2,4,4,4,4,4]
+Output: 4
+Explanation: To complete all the tasks, a possible plan is:
+- In the first round, you complete 3 tasks of difficulty level 2. 
+- In the second round, you complete 2 tasks of difficulty level 3. 
+- In the third round, you complete 3 tasks of difficulty level 4. 
+- In the fourth round, you complete 2 tasks of difficulty level 4.  
+It can be shown that all the tasks cannot be completed in fewer than 4 rounds, so the answer is 4.
 ```
 
 Example 2:
 
 ```
-Input: strs = ["a","b"]
-Output: 0
-Explanation: The grid looks as follows:
-  a
-  b
-Column 0 is the only column and is sorted, so you will not delete any columns.
-```
-
-Example 3:
-
-```
-Input: strs = ["zyx","wvu","tsr"]
-Output: 3
-Explanation: The grid looks as follows:
-  zyx
-  wvu
-  tsr
-All 3 columns are not sorted, so you will delete all 3.
+Input: tasks = [2,3,3]
+Output: -1
+Explanation: There is only 1 task of difficulty level 2, but in each round, you can only complete either 2 or 3 tasks of the same difficulty level. Hence, you cannot complete all the tasks, and the answer is -1.
 ```
