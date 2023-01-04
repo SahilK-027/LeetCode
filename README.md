@@ -183,6 +183,7 @@ solutions main(logic)
 | 520 | Detect Capital | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/520.%20Detect%20Capital)|
 | 538 | Convert BST to Greater Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/538.%20Convert%20BST%20to%20Greater%20Tree)|
 | 543 | Diameter of Binary Tree | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/543.%20Diameter%20of%20Binary%20Tree)|
+| 547 | Number of Provinces | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/547.%20Number%20of%20Provinces)|
 | 557 | Reverse Words in a String III | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/557.%20Reverse%20Words%20in%20a%20String%20III)|
 | 567 | Permutation in String | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/567.%20Permutation%20in%20String)|
 | 617 | Merge Two Binary Trees | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/617.%20Merge%20Two%20Binary%20Trees)|
