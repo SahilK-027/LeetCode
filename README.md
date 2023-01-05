@@ -174,6 +174,7 @@ solutions main(logic)
 | 445 | Add Two Numbers II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/445.%20Add%20Two%20Numbers%20II)|
 | 450 | Delete Node in a BST | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/450.%20Delete%20Node%20in%20a%20BST)|
 | 451 | Sort Characters By Frequency | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/451.%20Sort%20Characters%20By%20Frequency)|
+| 452 | Minimum Number of Arrows to Burst Balloons | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons)|
 | 486 | Predict The Winner | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/486.%20Predict%20the%20Winner)|
 | 496 | Next Greater Element I | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/496.%20Next%20Greater%20Element%20I)|
 | 506 | Relative Ranks | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/506.%20Relative%20Ranks)|
