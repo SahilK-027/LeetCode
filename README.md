@@ -106,6 +106,7 @@ solutions main(logic)
 | 121 | Best Time to Buy and Sell Stock | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
 | 124 | Binary Tree Maximum Path Sum | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum)|
 | 129 | Sum Root to Leaf Numbers | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/129.%20Sum%20Root%20to%20Leaf%20Numbers)|
+| 134 | Gas Station | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/134.%20Gas%20Station)|
 | 138 | Copy List with Random Pointer | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/138.%20Copy%20List%20with%20Random%20Pointer)|
 | 140 | Word Break II | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/140.%20Word%20Break%20II)|
 | 141 | Linked List Cycle | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/141.%20Linked%20List%20Cycle)|
@@ -247,7 +248,8 @@ solutions main(logic)
 | 1752 | Check if Array Is Sorted and Rotated | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated)|
 | 1791 | Find Center of Star Graph | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1791.%20Find%20Center%20of%20Star%20Graph)|
 | 1823 | Find the Winner of the Circular Game | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)|
-| 1823 | Single-Threaded CPU | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1834.%20Single-Threaded%20CPU)|
+| 1833 | Maximum Ice Cream Bars | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1833.%20Maximum%20Ice%20Cream%20Bars)|
+| 1834 | Single-Threaded CPU | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1834.%20Single-Threaded%20CPU)|
 | 1863 |  Sum of All Subset XOR Totals | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals)|
 | 1910 | Remove All Occurrences of a Substring | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring)|
 | 1962 | Remove Stones to Minimize the Total | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total)|
