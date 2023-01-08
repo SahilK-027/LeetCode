@@ -115,6 +115,7 @@ solutions main(logic)
 | 144 | Binary Tree Preorder Traversal | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/144.%20Binary%20Tree%20Preorder%20Traversal)|
 | 145 | Binary Tree Postorder Traversal | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/145.%20Binary%20Tree%20Postorder%20Traversal)|
 | 148 | Sort List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/148.%20Sort%20List)|
+| 149 | Max Points on a Line | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/149.%20Max%20Points%20on%20a%20Line)|
 | 150 | Evaluate Reverse Polish Notation | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/150.%20Evaluate%20Reverse%20Polish%20Notation)|
 | 151 | Reverse Words in a String | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/151.%20Reverse%20Words%20in%20a%20String)|
 | 153 | Find Minimum in Rotated Sorted Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)|
