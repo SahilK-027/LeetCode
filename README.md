@@ -236,6 +236,7 @@ solutions main(logic)
 | 1342 | Number of Steps to Reduce a Number to Zero | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)|
 | 1373 | Maximum Sum BST in Binary Tree | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree)|
 | 1382 | Balance a Binary Search Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1382.%20Balance%20a%20Binary%20Search%20Tree)|
+| 1443 | Minimum Time to Collect All Apples in a Tree | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree/README.md)|
 | 1448 | Count Good Nodes in Binary Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)|
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary)|
 | 1523 | Count Odd Numbers in an Interval Range | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range)|
