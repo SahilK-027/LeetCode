@@ -262,6 +262,7 @@ solutions main(logic)
 | 2169 | Count Operations to Obtain Zero | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2169.%20Count%20Operations%20to%20Obtain%20Zero)|
 | 2181 | Merge Nodes in Between Zeros | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2181.%20Merge%20Nodes%20in%20Between%20Zeros)|
 | 2244 | Minimum Rounds to Complete All Tasks | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks)|
+| 2246 | Longest Path With Different Adjacent Characters | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters)|
 | 2256 | Minimum Average Difference | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2256.%20Minimum%20Average%20Difference)|
 | 2265 | Count Nodes Equal to Average of Subtree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree)|
 | 2279 | Maximum Bags With Full Capacity of Rocks | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks)|
