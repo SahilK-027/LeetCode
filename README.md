@@ -288,6 +288,7 @@ solutions main(logic)
 | 2520 | Count the Digits That Divide a Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number)|
 | 2521 | Distinct Prime Factors of Product of Array | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2521.%20Distinct%20Prime%20Factors%20of%20Product%20of%20Array)|
 | 2523 | Closest Prime Numbers in Range | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2523.%20Closest%20Prime%20Numbers%20in%20Range)|
+| 2535 | Difference Between Element Sum and Digit Sum of an Array | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array)|
 
 
 
