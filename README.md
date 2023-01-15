@@ -271,6 +271,7 @@ solutions main(logic)
 | 2367 | Number of Arithmetic Triplets | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2367.%20Number%20of%20Arithmetic%20Triplets)|
 | 2385 | Amount of Time for Binary Tree to Be Infected | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2385.%20Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected)|
 | 2389 | Longest Subsequence With Limited Sum | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2389.%20Longest%20Subsequence%20With%20Limited%20Sum)|
+| 2421 | Number of Good Paths | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2421.%20Number%20of%20Good%20Paths)|
 | 2469 | Convert the Temperature | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2469.%20Convert%20the%20Temperature)|
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level)|
 | 2485 | Find the Pivot Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2485.%20Find%20the%20Pivot%20Integer)|
