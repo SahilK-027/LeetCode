@@ -87,6 +87,7 @@ solutions main(logic)
 | 88 | Merge Sorted Array | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/88.%20Merge%20Sorted%20Array)|
 | 91 | Decode Ways | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/91.%20Decode%20Ways)|
 | 92 | Reverse Linked List II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/92.%20Reverse%20Linked%20List%20II)|
+| 93 | Restore IP Addresses | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/93.%20Restore%20IP%20Addresses)|
 | 94 | Binary Tree Inorder Traversal | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/94.%20Binary%20Tree%20Inorder%20Traversal)|
 | 96 | Unique Binary Search Trees | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/96.%20Unique%20Binary%20Search%20Trees)|
 | 98 | Validate Binary Search Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/98.%20Validate%20Binary%20Search%20Tree)|
@@ -179,6 +180,7 @@ solutions main(logic)
 | 451 | Sort Characters By Frequency | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/451.%20Sort%20Characters%20By%20Frequency)|
 | 452 | Minimum Number of Arrows to Burst Balloons | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons)|
 | 486 | Predict The Winner | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/486.%20Predict%20the%20Winner)|
+| 491 | Non-decreasing Subsequences | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/491.%20Non-decreasing%20Subsequences)|
 | 496 | Next Greater Element I | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/496.%20Next%20Greater%20Element%20I)|
 | 506 | Relative Ranks | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/506.%20Relative%20Ranks)|
 | 509 | Fibonacci Number | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/509.%20Fibonacci%20Number)|
