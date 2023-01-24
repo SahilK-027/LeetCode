@@ -108,6 +108,7 @@ solutions main(logic)
 | 121 | Best Time to Buy and Sell Stock | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
 | 124 | Binary Tree Maximum Path Sum | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum)|
 | 129 | Sum Root to Leaf Numbers | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/129.%20Sum%20Root%20to%20Leaf%20Numbers)|
+| 131 | Palindrome Partitioning | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/131.%20Palindrome%20Partitioning)|
 | 134 | Gas Station | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/134.%20Gas%20Station)|
 | 138 | Copy List with Random Pointer | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/138.%20Copy%20List%20with%20Random%20Pointer)|
 | 140 | Word Break II | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/140.%20Word%20Break%20II)|
@@ -295,7 +296,8 @@ solutions main(logic)
 | 2521 | Distinct Prime Factors of Product of Array | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2521.%20Distinct%20Prime%20Factors%20of%20Product%20of%20Array)|
 | 2523 | Closest Prime Numbers in Range | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2523.%20Closest%20Prime%20Numbers%20in%20Range)|
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array)|
-
+| 2544 | Alternating Digit Sum | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2544.%20Alternating%20Digit%20Sum)|
+| 2545 | Sort the Students by Their Kth Score | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score)|
 
 
 ## Contributors
