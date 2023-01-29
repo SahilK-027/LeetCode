@@ -165,6 +165,7 @@ solutions main(logic)
 | 328 | Odd Even Linked List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/328.%20Odd%20Even%20Linked%20List)|
 | 342 | Power of Four | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/342.%20Power%20of%20Four)|
 | 344 | Reverse String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/344.%20Reverse%20String)|
+| 352 | Data Stream as Disjoint Intervals | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/352.%20Data%20Stream%20as%20Disjoint%20Intervals)|
 | 367 | Valid Perfect Square | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/367.%20Valid%20Perfect%20Square)|
 | 374 | Guess Number Higher or Lower | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/374.%20Guess%20Number%20Higher%20or%20Lower)|
 | 383 | Ransom Note | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/383.%20Ransom%20Note)|
@@ -180,6 +181,7 @@ solutions main(logic)
 | 450 | Delete Node in a BST | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/450.%20Delete%20Node%20in%20a%20BST)|
 | 451 | Sort Characters By Frequency | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/451.%20Sort%20Characters%20By%20Frequency)|
 | 452 | Minimum Number of Arrows to Burst Balloons | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons)|
+| 472 | Concatenated Words | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/472.%20Concatenated%20Words)|
 | 486 | Predict The Winner | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/486.%20Predict%20the%20Winner)|
 | 491 | Non-decreasing Subsequences | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/491.%20Non-decreasing%20Subsequences)|
 | 496 | Next Greater Element I | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/496.%20Next%20Greater%20Element%20I)|
@@ -206,6 +208,7 @@ solutions main(logic)
 | 739 | Daily Temperatures | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/739.%20Daily%20Temperatures)|
 | 740 | Delete and Earn | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/740.%20Delete%20and%20Earn)|
 | 779 | K-th Symbol In Grammar | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/779.%20K-th%20Symbol%20in%20Grammar)|
+| 787 | Cheapest Flights Within K Stops | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/787.%20Cheapest%20Flights%20Within%20K%20Stops)|
 | 790 | Domino and Tromino Tiling | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/790.%20Domino%20and%20Tromino%20Tiling)|
 | 797 | All Paths From Source to Target | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/797.%20All%20Paths%20From%20Source%20to%20Target)|
 | 832 | Flipping an Image | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/832.%20Flipping%20an%20Image)|
@@ -275,6 +278,7 @@ solutions main(logic)
 | 2256 | Minimum Average Difference | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2256.%20Minimum%20Average%20Difference)|
 | 2265 | Count Nodes Equal to Average of Subtree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree)|
 | 2279 | Maximum Bags With Full Capacity of Rocks | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks)|
+| 2359 | Find Closest Node to Given Two Nodes | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes)|
 | 2367 | Number of Arithmetic Triplets | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2367.%20Number%20of%20Arithmetic%20Triplets)|
 | 2385 | Amount of Time for Binary Tree to Be Infected | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2385.%20Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected)|
 | 2389 | Longest Subsequence With Limited Sum | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2389.%20Longest%20Subsequence%20With%20Limited%20Sum)|
@@ -299,7 +303,8 @@ solutions main(logic)
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array)|
 | 2544 | Alternating Digit Sum | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2544.%20Alternating%20Digit%20Sum)|
 | 2545 | Sort the Students by Their Kth Score | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score)|
-
+| 2549 | Count Distinct Numbers on Board | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2549.%20Count%20Distinct%20Numbers%20on%20Board)|
+| 2551 | Put Marbles in Bags | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/2551.%20Put%20Marbles%20in%20Bags/README.md)|
 
 ## Contributors
 
