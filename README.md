@@ -117,6 +117,7 @@ solutions main(logic)
 | 143 | Reorder List | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/143.%20Reorder%20List)|
 | 144 | Binary Tree Preorder Traversal | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/144.%20Binary%20Tree%20Preorder%20Traversal)|
 | 145 | Binary Tree Postorder Traversal | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/145.%20Binary%20Tree%20Postorder%20Traversal)|
+| 146 | LRU Cache | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/146.%20LRU%20Cache)|
 | 148 | Sort List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/148.%20Sort%20List)|
 | 149 | Max Points on a Line | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/149.%20Max%20Points%20on%20a%20Line)|
 | 150 | Evaluate Reverse Polish Notation | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/150.%20Evaluate%20Reverse%20Polish%20Notation)|
@@ -181,6 +182,7 @@ solutions main(logic)
 | 450 | Delete Node in a BST | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/450.%20Delete%20Node%20in%20a%20BST)|
 | 451 | Sort Characters By Frequency | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/451.%20Sort%20Characters%20By%20Frequency)|
 | 452 | Minimum Number of Arrows to Burst Balloons | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons)|
+| 460 | LFU Cache | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/460.%20LFU%20Cache)|
 | 472 | Concatenated Words | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/472.%20Concatenated%20Words)|
 | 486 | Predict The Winner | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/486.%20Predict%20the%20Winner)|
 | 491 | Non-decreasing Subsequences | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/491.%20Non-decreasing%20Subsequences)|
@@ -255,6 +257,7 @@ solutions main(logic)
 | 1523 | Count Odd Numbers in an Interval Range | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range)|
 | 1544 | Make The String Great | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1544.%20Make%20The%20String%20Great)|
 | 1572 | Matrix Diagonal Sum | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1572.%20Matrix%20Diagonal%20Sum)|
+| 1626 | Best Team With No Conflicts | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1626.%20Best%20Team%20With%20No%20Conflicts)|
 | 1655 | Distribute Repeating Integers | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1655.%20Distribute%20Repeating%20Integers)|
 | 1657 | Determine if Two Strings Are Close | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1657.%20Determine%20if%20Two%20Strings%20Are%20Close)|
 | 1672 | Richest Customer Wealth | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1672.%20Richest%20Customer%20Wealth)|
