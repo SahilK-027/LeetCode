@@ -36,6 +36,7 @@ solutions main(logic)
 | 2 | Add Two Numbers | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2.%20Add%20Two%20Numbers) |
 | 3 | Longest Substring Without Repeating Characters | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters) |
 | 4 | Median of Two Sorted Arrays | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/4.%20Median%20of%20Two%20Sorted%20Arrays) |
+| 6 | Zigzag Conversion | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/6.%20Zigzag%20Conversion)|
 | 7 | Reverse Integer | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/7.%20Reverse%20Integer) |
 | 9 | Palindrome Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/9.%20Palindrome%20Number)|
 | 11 | Container With Most Water | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/11.%20Container%20With%20Most%20Water)|
@@ -228,6 +229,7 @@ solutions main(logic)
 | 931 | Minimum Falling Path Sum | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/931.%20Minimum%20Falling%20Path%20Sum)|
 | 938 | Range Sum of BST | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/938.%20Range%20Sum%20of%20BST)|
 | 944 | Delete Columns to Make Sorted | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/944.%20Delete%20Columns%20to%20Make%20Sorted)|
+| 953 | Verifying an Alien Dictionary | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/953.%20Verifying%20an%20Alien%20Dictionary)|
 | 958 | Check Completeness of a Binary Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/958.%20Check%20Completeness%20of%20a%20Binary%20Tree)|
 | 974 | Subarray Sums Divisible by K | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/974.%20Subarray%20Sums%20Divisible%20by%20K)|
 | 977 | Squares of a Sorted Array | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/977.%20Squares%20of%20a%20Sorted%20Array)|
@@ -242,6 +244,7 @@ solutions main(logic)
 | 1047 | Remove All Adjacent Duplicates In String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|
 | 1143 | Longest Common Subsequence | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1143.%20Longest%20Common%20Subsequence)|
 | 1047 | Remove All Adjacent Duplicates In String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|
+| 1071 | Greatest Common Divisor of Strings | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1071.%20Greatest%20Common%20Divisor%20of%20Strings)|
 | 1207 | Unique Number of Occurrences | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1207.%20Unique%20Number%20of%20Occurrences)|
 | 1281 | Subtract the Product and Sum of Digits of an Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)|
 | 1290 | Convert Binary Number in a Linked List to Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)|
