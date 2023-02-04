@@ -210,6 +210,7 @@ solutions main(logic)
 | 733 | Flood Fill | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/733.%20Flood%20Fill)|
 | 739 | Daily Temperatures | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/739.%20Daily%20Temperatures)|
 | 740 | Delete and Earn | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/740.%20Delete%20and%20Earn)|
+| 743 | Network Delay Time | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/743.%20Network%20Delay%20Time)|
 | 779 | K-th Symbol In Grammar | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/779.%20K-th%20Symbol%20in%20Grammar)|
 | 787 | Cheapest Flights Within K Stops | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/787.%20Cheapest%20Flights%20Within%20K%20Stops)|
 | 790 | Domino and Tromino Tiling | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/790.%20Domino%20and%20Tromino%20Tiling)|
