@@ -177,6 +177,7 @@ solutions main(logic)
 | 394 | Decode String | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/394.%20Decode%20String)|
 | 404 | Sum of Left Leaves | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/404.%20Sum%20of%20Left%20Leaves)|
 | 437 | Path Sum III | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/437.%20Path%20Sum%20III)|
+| 438 | Find All Anagrams in a String | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/438.%20Find%20All%20Anagrams%20in%20a%20String)|
 | 442 | Find All Duplicates in an Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/442.%20Find%20All%20Duplicates%20in%20an%20Array)|
 | 443 | String Compression | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/443.%20String%20Compression)|
 | 445 | Add Two Numbers II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/445.%20Add%20Two%20Numbers%20II)|
