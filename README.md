@@ -252,6 +252,7 @@ solutions main(logic)
 | 1290 | Convert Binary Number in a Linked List to Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)|
 | 1339 | Maximum Product of Splitted Binary Tree | 🟡 | [solution]()|
 | 1325 | Delete Leaves With a Given Value | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1325.%20Delete%20Leaves%20With%20a%20Given%20Value)|
+| 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance)|
 | 1342 | Number of Steps to Reduce a Number to Zero | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)|
 | 1373 | Maximum Sum BST in Binary Tree | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree)|
 | 1382 | Balance a Binary Search Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1382.%20Balance%20a%20Binary%20Search%20Tree)|
