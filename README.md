@@ -336,6 +336,7 @@ solutions main(logic)
       <td align="center"><a href="https://github.com/nirupamarajeevan"><img src="https://avatars.githubusercontent.com/u/63494544?v=4" alt="Nirupama" width="100px;"/><br /><sub><b>Nirupama R.</b></sub></a><br /><a href="mailto:nirupamarajeevan@gmail.com">💬</a></td>     
       <td align="center"><a href="https://github.com/shashankbhosagi"><img src="https://avatars.githubusercontent.com/u/78866224?v=4" alt="Shashank B" width="100px;"/><br /><sub><b>SHashank B.</b></sub></a><br /><a href="mailto:shashankbhosagi0121@gmail.com">💬</a></td>
       <td align="center"><a href="https://github.com/yashlondhe90960"><img src="https://avatars.githubusercontent.com/yashlondhe90960" alt="Yash Londhe" width="100px;"/><br /><sub><b>Yash L.</b></sub></a><br /><a href="mailto:yashlondhe9151@gmail.com">💬</a></td>
+      <td align="center"><a href="https://github.com/ShubhamAsbe"><img src="https://avatars.githubusercontent.com/u/76616652?v=4" alt="Shubham Asbe" width="100px;"/><br /><sub><b>Shubham A.</b></sub></a><br /><a href="mailto:asbeshubham143@gmail.com">💬</a></td>
     </tr>
   </tbody>
 </table>
