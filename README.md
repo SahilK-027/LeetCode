@@ -70,11 +70,13 @@ solutions main(logic)
 | 53 | Maximum Subarray | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/53.%20Maximum%20Subarray)|
 | 54 | Spiral Matrix | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/54.%20Spiral%20Matrix)|
 | 55 | Jump Game | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/55.%20Jump%20Game)|
+| 56 | Merge Intervals | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/56.%20Merge%20Intervals)|
 | 57 | Insert Interval | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/57.%20Insert%20Interval)|
 | 58 | Length of Last Word | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/58.%20Length%20of%20Last%20Word)|
 | 59 | Spiral Matrix II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/59.%20Spiral%20Matrix%20II)|
 | 61 | Rotate List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/61.%20Rotate%20List)|
 | 66 | Plus One | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/66.%20Plus%20One)|
+| 67 | Add Binary | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/67.%20Add%20Binary)|
 | 69 | Sqrt(x) | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/69.%20Sqrt(x))|
 | 70 | Climbing Stairs | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/70.%20Climbing%20Stairs)|
 | 73 | Set Matrix Zeroes | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/73.%20Set%20Matrix%20Zeroes)|
@@ -245,9 +247,10 @@ solutions main(logic)
 | 1047 | Remove All Adjacent Duplicates In String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|
 | 1061 | Lexicographically Smallest Equivalent String | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1061.%20Lexicographically%20Smallest%20Equivalent%20String)|
 | 1047 | Remove All Adjacent Duplicates In String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|
-| 1143 | Longest Common Subsequence | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1143.%20Longest%20Common%20Subsequence)|
-| 1047 | Remove All Adjacent Duplicates In String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|
 | 1071 | Greatest Common Divisor of Strings | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1071.%20Greatest%20Common%20Divisor%20of%20Strings)|
+| 1129 | Shortest Path with Alternating Colors | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/1129.%20Shortest%20Path%20with%20Alternating%20Colors)
+| 1143 | Longest Common Subsequence | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1143.%20Longest%20Common%20Subsequence)|
+| 1162 | As Far from Land as Possible | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1162.%20As%20Far%20from%20Land%20as%20Possible)|
 | 1207 | Unique Number of Occurrences | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1207.%20Unique%20Number%20of%20Occurrences)|
 | 1281 | Subtract the Product and Sum of Digits of an Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)|
 | 1290 | Convert Binary Number in a Linked List to Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)|
@@ -289,6 +292,7 @@ solutions main(logic)
 | 2256 | Minimum Average Difference | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2256.%20Minimum%20Average%20Difference)|
 | 2265 | Count Nodes Equal to Average of Subtree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree)|
 | 2279 | Maximum Bags With Full Capacity of Rocks | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks)|
+| 2306 | Naming a Company | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2306.%20Naming%20a%20Company)|
 | 2359 | Find Closest Node to Given Two Nodes | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes)|
 | 2367 | Number of Arithmetic Triplets | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2367.%20Number%20of%20Arithmetic%20Triplets)|
 | 2385 | Amount of Time for Binary Tree to Be Infected | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2385.%20Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected)|
@@ -296,6 +300,7 @@ solutions main(logic)
 | 2421 | Number of Good Paths | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2421.%20Number%20of%20Good%20Paths)|
 | 2469 | Convert the Temperature | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2469.%20Convert%20the%20Temperature)|
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level)|
+| 2477 | Minimum Fuel Cost to Report to the Capital | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2477.%20Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital)|
 | 2485 | Find the Pivot Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2485.%20Find%20the%20Pivot%20Integer)|
 | 2486 | Append Characters to String to Make Subsequence | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2486.%20Append%20Characters%20to%20String%20to%20Make%20Subsequence)|
 | 2487 | Remove Nodes From Linked List | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2487.%20Remove%20Nodes%20From%20Linked%20List)|
