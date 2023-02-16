@@ -25,6 +25,7 @@ solutions main(logic)
 
 [![Travis](https://img.shields.io/badge/language-C++-red.svg)](https://developer.apple.com/)
 [![Travis](https://img.shields.io/badge/language-java-orange.svg)](https://developer.apple.com/)
+[![Travis](https://img.shields.io/badge/language-python-blue.svg)](https://developer.apple.com/)
 
 ```diff
 @@  Problems Solved So Far,... @@
