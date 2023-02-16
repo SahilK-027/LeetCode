@@ -113,6 +113,8 @@ solutions main(logic)
 | 129 | Sum Root to Leaf Numbers | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/129.%20Sum%20Root%20to%20Leaf%20Numbers)|
 | 131 | Palindrome Partitioning | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/131.%20Palindrome%20Partitioning)|
 | 134 | Gas Station | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/134.%20Gas%20Station)|
+| 136 | Single Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/136.%20Single%20Number)|
+| 137 | Single Number II | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/137.%20Single%20Number%20II)|
 | 138 | Copy List with Random Pointer | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/138.%20Copy%20List%20with%20Random%20Pointer)|
 | 140 | Word Break II | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/140.%20Word%20Break%20II)|
 | 141 | Linked List Cycle | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/141.%20Linked%20List%20Cycle)|
@@ -156,6 +158,7 @@ solutions main(logic)
 | 239 | Sliding Window Maximum | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/239.%20Sliding%20Window%20Maximum)|
 | 240 | Search a 2D Matrix II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/240.%20Search%20a%202D%20Matrix%20II)|
 | 257 | Binary Tree Paths | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/257.%20Binary%20Tree%20Paths)|
+| 260 | Single Number III | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/260.%20Single%20Number%20III)|
 | 263 | Ugly Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/263.%20Ugly%20Number)|
 | 268 | Missing Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/268.%20Missing%20Number)|
 | 273 | Integer to English Words | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/273.%20Integer%20to%20English%20Words)|
@@ -239,11 +242,12 @@ solutions main(logic)
 | 974 | Subarray Sums Divisible by K | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/974.%20Subarray%20Sums%20Divisible%20by%20K)|
 | 977 | Squares of a Sorted Array | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/977.%20Squares%20of%20a%20Sorted%20Array)|
 | 980 | Unique Paths III | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/980.%20Unique%20Paths%20III)|
+| 989 | Add to Array-Form of Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/989.%20Add%20to%20Array-Form%20of%20Integer)|
 | 997 | Find the Town Judge | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/997.%20Find%20the%20Town%20Judge)|
 | 1008 | Construct Binary Search Tree from Preorder Traversal | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)|
 | 1009 | Complement of Base 10 Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1009.%20Complement%20of%20Base%2010%20Integer)|
 | 1026 | Maximum Difference Between Node and Ancestor | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor)|
-| 1038 | Binary Search Tree to Greater Sum Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree)|
+| 1038 | Binary Search Tree to Greater Sum Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1038.%20Binary%20Search%20Tree%https://github.com/SahilK-027/LeetCode/tree/main/989.%20Add%20to%20Array-Form%20of%20Integer20to%20Greater%20Sum%20Tree)|
 | 1047 | Remove All Adjacent Duplicates In String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|
 | 1061 | Lexicographically Smallest Equivalent String | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1061.%20Lexicographically%20Smallest%20Equivalent%20String)|
 | 1047 | Remove All Adjacent Duplicates In String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|
