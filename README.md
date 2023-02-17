@@ -30,7 +30,7 @@
 ```cpp
 
 /**
- * @brief:   This repository contains my solutions for leetcode problems.
+ * @brief:   This repository contains solutions for leetcode problems.
  * @author:  SahilK-027
  * @param:   Takes logic
  * @return:  Solutions
@@ -42,7 +42,7 @@ solutions main(logic)
     Give ⭐️;
     Thanks 😊;
   }
-  return (My LeetCode solutions);
+  return (LeetCode solutions);
 }
 ```
 
