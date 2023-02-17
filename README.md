@@ -205,6 +205,7 @@ solutions main(logic)
 | 547 | Number of Provinces | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/547.%20Number%20of%20Provinces)|
 | 557 | Reverse Words in a String III | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/557.%20Reverse%20Words%20in%20a%20String%20III)|
 | 567 | Permutation in String | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/567.%20Permutation%20in%20String)|
+| 593 | Valid Square | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/593.%20Valid%20Square)|
 | 617 | Merge Two Binary Trees | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/617.%20Merge%20Two%20Binary%20Trees)|
 | 622 | Design Circular Queue | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/622.%20Design%20Circular%20Queue)|
 | 632 | Smallest Range Covering Elements from K Lists | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists)|
@@ -219,6 +220,7 @@ solutions main(logic)
 | 740 | Delete and Earn | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/740.%20Delete%20and%20Earn)|
 | 743 | Network Delay Time | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/743.%20Network%20Delay%20Time)|
 | 779 | K-th Symbol In Grammar | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/779.%20K-th%20Symbol%20in%20Grammar)|
+| 783 | Minimum Distance Between BST Nodes | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/783.%20Minimum%20Distance%20Between%20BST%20Nodes)|
 | 787 | Cheapest Flights Within K Stops | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/787.%20Cheapest%20Flights%20Within%20K%20Stops)|
 | 790 | Domino and Tromino Tiling | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/790.%20Domino%20and%20Tromino%20Tiling)|
 | 797 | All Paths From Source to Target | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/797.%20All%20Paths%20From%20Source%20to%20Target)|
@@ -326,6 +328,8 @@ solutions main(logic)
 | 2545 | Sort the Students by Their Kth Score | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score)|
 | 2549 | Count Distinct Numbers on Board | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2549.%20Count%20Distinct%20Numbers%20on%20Board)|
 | 2551 | Put Marbles in Bags | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/2551.%20Put%20Marbles%20in%20Bags/README.md)|
+| 2553 | Separate the Digits in an Array | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2553.%20Separate%20the%20Digits%20in%20an%20Array)|
+| 2554 | Maximum Number of Integers to Choose From a Range I | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I)|
 
 ## Contributors
 
