@@ -31,7 +31,6 @@
 
 /**
  * @brief:   This repository contains solutions for leetcode problems.
- * @author:  SahilK-027
  * @param:   Takes logic
  * @return:  Solutions
 */
@@ -358,12 +357,12 @@ solutions main(logic)
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/SahilK-027"><img src="https://avatars.githubusercontent.com/u/104154041?v=4" alt="Sahil-k" width="100px;"/><br /><sub><b>Sahil K.</b></sub></a><br /><a href="mailto:sahilkandhare07@gmail.com">💬</a></td>
-      <td align="center"><a href="https://github.com/AaryanChaudhari"><img src="https://avatars.githubusercontent.com/u/97241653?s=400&u=1266423cfde0ff30175fea148a46e57a442247e7&v=4" alt="Aaryan-C" width="100px;"/><br /><sub><b>Aaryan Chaudhari</b></sub></a><br /><a href="mailto:aaryananilchaudhari@gmail.com">💬</a></td>
-      <td align="center"><a href="https://github.com/nirupamarajeevan"><img src="https://avatars.githubusercontent.com/u/63494544?v=4" alt="Nirupama" width="100px;"/><br /><sub><b>Nirupama R.</b></sub></a><br /><a href="mailto:nirupamarajeevan@gmail.com">💬</a></td>     
-      <td align="center"><a href="https://github.com/shashankbhosagi"><img src="https://avatars.githubusercontent.com/u/78866224?v=4" alt="Shashank B" width="100px;"/><br /><sub><b>SHashank B.</b></sub></a><br /><a href="mailto:shashankbhosagi0121@gmail.com">💬</a></td>
-      <td align="center"><a href="https://github.com/yashlondhe90960"><img src="https://avatars.githubusercontent.com/yashlondhe90960" alt="Yash Londhe" width="100px;"/><br /><sub><b>Yash L.</b></sub></a><br /><a href="mailto:yashlondhe9151@gmail.com">💬</a></td>
-      <td align="center"><a href="https://github.com/ShubhamAsbe"><img src="https://avatars.githubusercontent.com/u/76616652?v=4" alt="Shubham Asbe" width="100px;"/><br /><sub><b>Shubham A.</b></sub></a><br /><a href="mailto:asbeshubham143@gmail.com">💬</a></td>
+      <td align="center"><a href="https://github.com/SahilK-027"><img src="https://avatars.githubusercontent.com/u/104154041?v=4" alt="Sahil-k" width="50px;"/><br /><sub><b>Sahil K.</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/AaryanChaudhari"><img src="https://avatars.githubusercontent.com/u/97241653?s=400&u=1266423cfde0ff30175fea148a46e57a442247e7&v=4" alt="Aaryan-C" width="50px;"/><br /><sub><b>Aaryan C.</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/nirupamarajeevan"><img src="https://avatars.githubusercontent.com/u/63494544?v=4" alt="Nirupama" width="50px;"/><br /><sub><b>Nirupama R.</b></sub></a><br /></td>     
+      <td align="center"><a href="https://github.com/shashankbhosagi"><img src="https://avatars.githubusercontent.com/u/78866224?v=4" alt="Shashank B" width="50px;"/><br /><sub><b>SHashank B.</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/yashlondhe90960"><img src="https://avatars.githubusercontent.com/yashlondhe90960" alt="Yash Londhe" width="50px;"/><br /><sub><b>Yash L.</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/ShubhamAsbe"><img src="https://avatars.githubusercontent.com/u/76616652?v=4" alt="Shubham Asbe" width="50px;"/><br /><sub><b>Shubham A.</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
