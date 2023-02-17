@@ -349,6 +349,7 @@ solutions main(logic)
 | 2551 | Put Marbles in Bags | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/2551.%20Put%20Marbles%20in%20Bags/README.md)|
 | 2553 | Separate the Digits in an Array | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2553.%20Separate%20the%20Digits%20in%20an%20Array)|
 | 2554 | Maximum Number of Integers to Choose From a Range I | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I)|
+| 2558 | Take Gifts From the Richest Pile | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2558.%20Take%20Gifts%20From%20the%20Richest%20Pile)|
 | 2562 | Find the Array Concatenation Value | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2562.%20Find%20the%20Array%20Concatenation%20Value)|
 | 2563 | Count the Number of Fair Pairs | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2563.%20Count%20the%20Number%20of%20Fair%20Pairs)|
 
