@@ -1,6 +1,29 @@
 # LeetCode
 
-## Solutions for LeetCode
+## 💠 Languages used
+
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+	          <td width="80px" align="center">
+            <span><strong>C++</strong></span><br>
+            <img src="https://styles.redditmedia.com/t5_2qi27/styles/communityIcon_c6mtvgj38ki31.jpg?width=256&format=pjpg&v=enabled&s=749592d359aa329e3d2060be12d9594928a87749" alt="CPP" height="40" style="vertical-align:top; margin:10px">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Java</strong></span><br>
+            <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>JS</strong></span><br>
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"                       alt="Javascript" height="40" style="vertical-align:top; margin:10px">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffa115&size=25&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+👨🏻‍💻+Happy+LeetCoding!;)](https://git.io/typing-svg)
 
@@ -23,9 +46,6 @@ solutions main(logic)
 }
 ```
 
-[![Travis](https://img.shields.io/badge/language-C++-red.svg)](https://developer.apple.com/)
-[![Travis](https://img.shields.io/badge/language-java-orange.svg)](https://developer.apple.com/)
-[![Travis](https://img.shields.io/badge/language-python-blue.svg)](https://developer.apple.com/)
 
 ```diff
 @@  Problems Solved So Far,... @@
