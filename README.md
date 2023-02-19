@@ -352,6 +352,7 @@ solutions main(logic)
 | 2558 | Take Gifts From the Richest Pile | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2558.%20Take%20Gifts%20From%20the%20Richest%20Pile)|
 | 2562 | Find the Array Concatenation Value | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2562.%20Find%20the%20Array%20Concatenation%20Value)|
 | 2563 | Count the Number of Fair Pairs | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2563.%20Count%20the%20Number%20of%20Fair%20Pairs)|
+| 2570 | Merge Two 2D Arrays by Summing Values | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2570.%20Merge%20Two%202D%20Arrays%20by%20Summing%20Values)|
 
 ## Contributors
 
