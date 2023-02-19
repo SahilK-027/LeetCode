@@ -1,4 +1,4 @@
-# Take Gifts From the Richest Pile
+# Merge Two 2D Arrays by Summing Values
 ## Description
 
 You are given two 2D integer arrays nums1 and nums2.
