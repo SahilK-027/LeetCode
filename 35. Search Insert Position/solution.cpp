@@ -32,3 +32,18 @@ public:
         return s;       //not found return the position where s / e+1 currently are
     }
 };
+
+
+
+// ALTERNATIVE APPROACH Using upper_bound function
+class Solution {
+public:
+    int searchInsert(vector<int>& arr, int t) {
+        if(binary_search(arr.begin(), arr.end(), t)){
+            return upper_bound(arr.begin(), arr.end(), t) - arr.begin() - 1;
+        }
+        else{
+            return upper_bound(arr.begin(), arr.end(), t) - arr.begin() ;
+        }
+    }
+};
