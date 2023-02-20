@@ -225,6 +225,7 @@ solutions main(logic)
 | 547 | Number of Provinces | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/547.%20Number%20of%20Provinces)|
 | 557 | Reverse Words in a String III | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/557.%20Reverse%20Words%20in%20a%20String%20III)|
 | 567 | Permutation in String | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/567.%20Permutation%20in%20String)|
+| 563 | Binary Tree Tilt | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/563.%20Binary%20Tree%20Tilt)|
 | 593 | Valid Square | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/593.%20Valid%20Square)|
 | 617 | Merge Two Binary Trees | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/617.%20Merge%20Two%20Binary%20Trees)|
 | 622 | Design Circular Queue | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/622.%20Design%20Circular%20Queue)|
