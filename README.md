@@ -215,6 +215,7 @@ solutions main(logic)
 | 491 | Non-decreasing Subsequences | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/491.%20Non-decreasing%20Subsequences)|
 | 496 | Next Greater Element I | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/496.%20Next%20Greater%20Element%20I)|
 | 506 | Relative Ranks | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/506.%20Relative%20Ranks)|
+| 508 | Most Frequent Subtree Sum | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/508.%20Most%20Frequent%20Subtree%20Sum)|
 | 509 | Fibonacci Number | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/509.%20Fibonacci%20Number)|
 | 513 | Find Bottom Left Tree Value | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/513.%20Find%20Bottom%20Left%20Tree%20Value)|
 | 515 | Find Largest Value in Each Tree Row | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)|
