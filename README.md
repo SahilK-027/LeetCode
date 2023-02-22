@@ -270,6 +270,8 @@ solutions main(logic)
 | 997 | Find the Town Judge | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/997.%20Find%20the%20Town%20Judge)|
 | 1008 | Construct Binary Search Tree from Preorder Traversal | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)|
 | 1009 | Complement of Base 10 Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1009.%20Complement%20of%20Base%2010%20Integer)|
+| 1011 | Capacity To Ship Packages Within D Days | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days)|
+| 1009 | Complement of Base 10 Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1009.%20Complement%20of%20Base%2010%20Integer)|
 | 1026 | Maximum Difference Between Node and Ancestor | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor)|
 | 1038 | Binary Search Tree to Greater Sum Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1038.%20Binary%20Search%20Tree%https://github.com/SahilK-027/LeetCode/tree/main/989.%20Add%20to%20Array-Form%20of%20Integer20to%20Greater%20Sum%20Tree)|
 | 1047 | Remove All Adjacent Duplicates In String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|
