@@ -214,6 +214,7 @@ solutions main(logic)
 | 486 | Predict The Winner | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/486.%20Predict%20the%20Winner)|
 | 491 | Non-decreasing Subsequences | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/491.%20Non-decreasing%20Subsequences)|
 | 496 | Next Greater Element I | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/496.%20Next%20Greater%20Element%20I)|
+| 502 | IPO | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/502.%20IPO)|
 | 506 | Relative Ranks | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/506.%20Relative%20Ranks)|
 | 508 | Most Frequent Subtree Sum | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/508.%20Most%20Frequent%20Subtree%20Sum)|
 | 509 | Fibonacci Number | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/509.%20Fibonacci%20Number)|
