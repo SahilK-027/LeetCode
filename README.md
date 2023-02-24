@@ -214,6 +214,7 @@ solutions main(logic)
 | 486 | Predict The Winner | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/486.%20Predict%20the%20Winner)|
 | 491 | Non-decreasing Subsequences | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/491.%20Non-decreasing%20Subsequences)|
 | 496 | Next Greater Element I | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/496.%20Next%20Greater%20Element%20I)|
+| 502 | IPO | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/502.%20IPO)|
 | 506 | Relative Ranks | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/506.%20Relative%20Ranks)|
 | 508 | Most Frequent Subtree Sum | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/508.%20Most%20Frequent%20Subtree%20Sum)|
 | 509 | Fibonacci Number | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/509.%20Fibonacci%20Number)|
@@ -269,6 +270,8 @@ solutions main(logic)
 | 989 | Add to Array-Form of Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/989.%20Add%20to%20Array-Form%20of%20Integer)|
 | 997 | Find the Town Judge | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/997.%20Find%20the%20Town%20Judge)|
 | 1008 | Construct Binary Search Tree from Preorder Traversal | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)|
+| 1009 | Complement of Base 10 Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1009.%20Complement%20of%20Base%2010%20Integer)|
+| 1011 | Capacity To Ship Packages Within D Days | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days)|
 | 1009 | Complement of Base 10 Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1009.%20Complement%20of%20Base%2010%20Integer)|
 | 1026 | Maximum Difference Between Node and Ancestor | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor)|
 | 1038 | Binary Search Tree to Greater Sum Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1038.%20Binary%20Search%20Tree%https://github.com/SahilK-027/LeetCode/tree/main/989.%20Add%20to%20Array-Form%20of%20Integer20to%20Greater%20Sum%20Tree)|
