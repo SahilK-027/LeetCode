@@ -214,7 +214,9 @@ solutions main(logic)
 | 486 | Predict The Winner | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/486.%20Predict%20the%20Winner)|
 | 491 | Non-decreasing Subsequences | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/491.%20Non-decreasing%20Subsequences)|
 | 496 | Next Greater Element I | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/496.%20Next%20Greater%20Element%20I)|
+| 502 | IPO | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/502.%20IPO)|
 | 506 | Relative Ranks | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/506.%20Relative%20Ranks)|
+| 508 | Most Frequent Subtree Sum | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/508.%20Most%20Frequent%20Subtree%20Sum)|
 | 509 | Fibonacci Number | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/509.%20Fibonacci%20Number)|
 | 513 | Find Bottom Left Tree Value | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/513.%20Find%20Bottom%20Left%20Tree%20Value)|
 | 515 | Find Largest Value in Each Tree Row | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)|
@@ -224,6 +226,7 @@ solutions main(logic)
 | 547 | Number of Provinces | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/547.%20Number%20of%20Provinces)|
 | 557 | Reverse Words in a String III | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/557.%20Reverse%20Words%20in%20a%20String%20III)|
 | 567 | Permutation in String | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/567.%20Permutation%20in%20String)|
+| 563 | Binary Tree Tilt | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/563.%20Binary%20Tree%20Tilt)|
 | 593 | Valid Square | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/593.%20Valid%20Square)|
 | 617 | Merge Two Binary Trees | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/617.%20Merge%20Two%20Binary%20Trees)|
 | 622 | Design Circular Queue | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/622.%20Design%20Circular%20Queue)|
@@ -267,6 +270,8 @@ solutions main(logic)
 | 989 | Add to Array-Form of Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/989.%20Add%20to%20Array-Form%20of%20Integer)|
 | 997 | Find the Town Judge | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/997.%20Find%20the%20Town%20Judge)|
 | 1008 | Construct Binary Search Tree from Preorder Traversal | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)|
+| 1009 | Complement of Base 10 Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1009.%20Complement%20of%20Base%2010%20Integer)|
+| 1011 | Capacity To Ship Packages Within D Days | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days)|
 | 1009 | Complement of Base 10 Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1009.%20Complement%20of%20Base%2010%20Integer)|
 | 1026 | Maximum Difference Between Node and Ancestor | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor)|
 | 1038 | Binary Search Tree to Greater Sum Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1038.%20Binary%20Search%20Tree%https://github.com/SahilK-027/LeetCode/tree/main/989.%20Add%20to%20Array-Form%20of%20Integer20to%20Greater%20Sum%20Tree)|
@@ -352,6 +357,7 @@ solutions main(logic)
 | 2558 | Take Gifts From the Richest Pile | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2558.%20Take%20Gifts%20From%20the%20Richest%20Pile)|
 | 2562 | Find the Array Concatenation Value | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2562.%20Find%20the%20Array%20Concatenation%20Value)|
 | 2563 | Count the Number of Fair Pairs | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2563.%20Count%20the%20Number%20of%20Fair%20Pairs)|
+| 2570 | Merge Two 2D Arrays by Summing Values | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2570.%20Merge%20Two%202D%20Arrays%20by%20Summing%20Values)|
 
 ## Contributors
 
