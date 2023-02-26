@@ -1,7 +1,7 @@
 /*
 Runtime: 26ms
 Memory: 18 MB
-TC : O(logN)
+TC : O(N(logN))
 SC: O(1)
 */
 
