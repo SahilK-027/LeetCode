@@ -101,6 +101,7 @@ solutions main(logic)
 | 70 | Climbing Stairs | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/70.%20Climbing%20Stairs)|
 | 73 | Set Matrix Zeroes | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/73.%20Set%20Matrix%20Zeroes)|
 | 74 | Search a 2D Matrix | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/74.%20Search%20a%202D%20Matrix)|
+| 75 | Sort Colors | 🟡 |  |
 | 78 | Subsets | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/78.%20Subsets)|
 | 82 | Remove Duplicates from Sorted List II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II)|
 | 83 | Remove Duplicates from Sorted List | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/83.%20Remove%20Duplicates%20from%20Sorted%20List)|
