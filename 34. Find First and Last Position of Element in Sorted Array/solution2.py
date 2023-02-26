@@ -1,7 +1,7 @@
 """
 70 ms
 14.4 MB
-TC : O(logN)
+TC : O(N)
 SC : O(1)
 */
 
@@ -21,15 +21,16 @@ class Solution(object):
         n=0
         if len(nums)==0:
             return [-1,-1]
+        #check if the start is less than or equal to end
         while(s<=e):
             if target==nums[m]:
                 n=m
-                if len(nums)==1:
-                    return [0,0]
+                #When will check the starting and ending of the number
                 while nums[m]==target:
                     m=m+1
                     if m>=len(nums):
                         break
+                #check for the target varible and the bounds of array
                 while nums[n]==target and n>-1:
                     n=n-1
                 return [n+1,m-1]
