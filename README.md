@@ -202,6 +202,7 @@ solutions main(logic)
 | 392 | Is Subsequence | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/392.%20Is%20Subsequence)|
 | 394 | Decode String | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/394.%20Decode%20String)|
 | 404 | Sum of Left Leaves | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/404.%20Sum%20of%20Left%20Leaves)|
+| 427 | Construct Quad Tree | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/427.%20Construct%20Quad%20Tree)|
 | 437 | Path Sum III | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/437.%20Path%20Sum%20III)|
 | 438 | Find All Anagrams in a String | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/438.%20Find%20All%20Anagrams%20in%20a%20String)|
 | 442 | Find All Duplicates in an Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/442.%20Find%20All%20Duplicates%20in%20an%20Array)|
@@ -233,6 +234,7 @@ solutions main(logic)
 | 622 | Design Circular Queue | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/622.%20Design%20Circular%20Queue)|
 | 632 | Smallest Range Covering Elements from K Lists | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists)|
 | 637 | Average of Levels in Binary Tree | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/637.%20Average%20of%20Levels%20in%20Binary%20Tree)|
+| 652 | Find Duplicate Subtrees | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/652.%20Find%20Duplicate%20Subtrees)|
 | 653 | Two Sum IV - Input is a BST | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST)|
 | 654 | Maximum Binary Tree | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/654.%20Maximum%20Binary%20Tree)|
 | 700 | Search in a Binary Search Tree | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/700.%20Search%20in%20a%20Binary%20Search%20Tree)|
@@ -296,6 +298,7 @@ solutions main(logic)
 | 1448 | Count Good Nodes in Binary Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)|
 | 1470 | Shuffle the Array | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1470.%20Shuffle%20the%20Array)|
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary)|
+| 1512 | Number of Good Pairs | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1512.%20Number%20of%20Good%20Pairs)|
 | 1519 | Number of Nodes in the Sub-Tree With the Same Label | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label)|
 | 1523 | Count Odd Numbers in an Interval Range | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range)|
 | 1544 | Make The String Great | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1544.%20Make%20The%20String%20Great)|
