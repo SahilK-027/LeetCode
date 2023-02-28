@@ -100,8 +100,12 @@ This is the required format for new solutinos:
 
 ## 📝 Adding a alternative solution for the Problem in REPOSITORY 📝
 
+``` diff
+❌ If a solution already exists for a problem in same laguage you are using, it won't get accepted, unless and until it has better time and space complexity then pre-existing solution. ❌ 
+```
+
 All solved LeetCode problems can be found [**here**](https://github.com/SahilK-027/LeetCode).
-If you have a solution to any of these problems (which are not being [**repeated**]), that's great! Here are the steps:
+If you have a solution to any of these problems (which are not being [**repeated**]) or in any other language, that's great! Here are the steps:
 
 1. Add a new file in `the directory for particular problem` with file file name as new_Problem_no.cpp.
     - For example: if the problem's number is 100, then the filename should be `new_100.cpp`.
