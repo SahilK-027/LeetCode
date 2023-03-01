@@ -4,7 +4,7 @@
 */
 
 /**
- * TC: O(n)
+ * TC: O(amount * coins.size())
  * SC: O(n)
 */
 
