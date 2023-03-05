@@ -294,6 +294,8 @@ solutions main(logic)
 | 1325 | Delete Leaves With a Given Value | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1325.%20Delete%20Leaves%20With%20a%20Given%20Value)|
 | 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance)|
 | 1342 | Number of Steps to Reduce a Number to Zero | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)|
+| 1345 | Jump Game IV | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1345.%20Jump%20Game%20IV)|
+| 1342 | Number of Steps to Reduce a Number to Zero | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)|
 | 1373 | Maximum Sum BST in Binary Tree | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree)|
 | 1382 | Balance a Binary Search Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1382.%20Balance%20a%20Binary%20Search%20Tree)|
 | 1443 | Minimum Time to Collect All Apples in a Tree | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree/README.md)|
@@ -336,6 +338,7 @@ solutions main(logic)
 | 2385 | Amount of Time for Binary Tree to Be Infected | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2385.%20Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected)|
 | 2389 | Longest Subsequence With Limited Sum | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2389.%20Longest%20Subsequence%20With%20Limited%20Sum)|
 | 2421 | Number of Good Paths | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2421.%20Number%20of%20Good%20Paths)|
+| 2444 | Count Subarrays With Fixed Bounds | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/2444.%20Count%20Subarrays%20With%20Fixed%20Bounds/README.md)|
 | 2469 | Convert the Temperature | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2469.%20Convert%20the%20Temperature)|
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level)|
 | 2477 | Minimum Fuel Cost to Report to the Capital | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2477.%20Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital)|
