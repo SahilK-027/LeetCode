@@ -192,6 +192,7 @@ solutions main(logic)
 | 322 | Coin Change | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/322.%20Coin%20Change) |
 | 326 | Power of Three | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/326.%20Power%20of%20Three)|
 | 328 | Odd Even Linked List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/328.%20Odd%20Even%20Linked%20List)|
+| 338 | Counting Bits | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/338.%20Counting%20Bits)|
 | 342 | Power of Four | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/342.%20Power%20of%20Four)|
 | 344 | Reverse String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/344.%20Reverse%20String)|
 | 352 | Data Stream as Disjoint Intervals | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/352.%20Data%20Stream%20as%20Disjoint%20Intervals)|
@@ -306,6 +307,7 @@ solutions main(logic)
 | 1512 | Number of Good Pairs | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1512.%20Number%20of%20Good%20Pairs)|
 | 1519 | Number of Nodes in the Sub-Tree With the Same Label | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label)|
 | 1523 | Count Odd Numbers in an Interval Range | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range)|
+| 1539 | Kth Missing Positive Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1539.%20Kth%20Missing%20Positive%20Number)|
 | 1544 | Make The String Great | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1544.%20Make%20The%20String%20Great)|
 | 1572 | Matrix Diagonal Sum | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1572.%20Matrix%20Diagonal%20Sum)|
 | 1626 | Best Team With No Conflicts | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1626.%20Best%20Team%20With%20No%20Conflicts)|
@@ -327,6 +329,7 @@ solutions main(logic)
 | 2095 | Delete the Middle Node of a Linked List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List)|
 | 2169 | Count Operations to Obtain Zero | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2169.%20Count%20Operations%20to%20Obtain%20Zero)|
 | 2181 | Merge Nodes in Between Zeros | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2181.%20Merge%20Nodes%20in%20Between%20Zeros)|
+| 2187 | Minimum Time to Complete Trips | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2187.%20Minimum%20Time%20to%20Complete%20Trips)|
 | 2244 | Minimum Rounds to Complete All Tasks | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks)|
 | 2246 | Longest Path With Different Adjacent Characters | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters)|
 | 2256 | Minimum Average Difference | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2256.%20Minimum%20Average%20Difference)|
