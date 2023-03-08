@@ -56,6 +56,7 @@ solutions main(logic)
 | 2 | Add Two Numbers | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2.%20Add%20Two%20Numbers) |
 | 3 | Longest Substring Without Repeating Characters | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters) |
 | 4 | Median of Two Sorted Arrays | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/4.%20Median%20of%20Two%20Sorted%20Arrays) |
+| 5 | Longest Palindromic Substring | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/5.%20Longest%20Palindromic%20Substring) |
 | 6 | Zigzag Conversion | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/6.%20Zigzag%20Conversion)|
 | 7 | Reverse Integer | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/7.%20Reverse%20Integer) |
 | 9 | Palindrome Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/9.%20Palindrome%20Number)|
@@ -258,6 +259,7 @@ solutions main(logic)
 | 852 | Peak Index in a Mountain Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/852.%20Peak%20Index%20in%20a%20Mountain%20Array)|
 | 863 | All Nodes Distance K in Binary Tree | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree)|
 | 872 | Leaf-Similar Trees | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/872.%20Leaf-Similar%20Trees)|
+| 875 | Koko Eating Bananas | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/875.%20Koko%20Eating%20Bananas)|
 | 876 | Middle of the Linked List | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/876.%20Middle%20of%20the%20Linked%20List)|
 | 886 | Possible Bipartition | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/886.%20Possible%20Bipartition)|
 | 904 | Fruit Into Baskets | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/904.%20Fruit%20Into%20Baskets)|
