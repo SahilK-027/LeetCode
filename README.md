@@ -80,7 +80,7 @@ solutions main(logic)
 | 34 | Find First and Last Position of Element in Sorted Array | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)|
 | 35 | Search Insert Position | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/35.%20Search%20Insert%20Position)|
 | 37 | Sudoku Solver | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/37.%20Sudoku%20Solver)|
-| 41 | First Missing Positive | 🔴 |[solution]()|  
+| 41 | First Missing Positive | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/41.%20First%20Missing%20Positive)|  
 | 42 | Trapping Rain Water | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/42.%20Trapping%20Rain%20Water)|
 | 45 | Jump Game II | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/45.%20Jump%20Game%20II)
 | 46 | Permutations | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/46.%20Permutations)|
