@@ -1,3 +1,15 @@
+/*
+Runtime : 87 ms
+Memory : 31.5 MB
+
+TC : O(nlogn)
+SC : O(1)
+*/
+
+/**
+ * @author : Shashank Bhosagi
+ * @brief : Normal 'for' loop with Binary Search
+ */
 class Solution
 {
 private:
