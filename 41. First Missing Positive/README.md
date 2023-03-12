@@ -29,6 +29,3 @@ Input: nums = [7,8,9,11,12]
 Output: 1
 Explanation: The smallest positive integer 1 is missing.
 ```
-
-<!-- If there is any follow-up -->
-<!-- Follow-up : -->
