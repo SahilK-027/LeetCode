@@ -8,7 +8,7 @@ SC : O(1)
 
 /**
  * @author : Shashank Bhosagi
- * @brief : Modulous Operator
+ * @brief : Math
  */
 
 class Solution
