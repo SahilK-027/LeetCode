@@ -154,6 +154,8 @@ solutions main(logic)
 | 160 | Intersection of Two Linked Lists | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/160.%20Intersection%20of%20Two%20Linked%20Lists)|
 | 162 | Find Peak Element | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/162.%20Find%20Peak%20Element)|
 | 167 | Two Sum II - Input Array Is Sorted | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)|
+| 171 | Excel Sheet Column Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/171.%20Excel%20Sheet%20Column%20Number)|
+| 172 | Factorial Trailing Zeroes | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/172.%20Factorial%20Trailing%20Zeroes)|
 | 189 | Rotate Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/189.%20Rotate%20Array)|
 | 191 | Number of 1 Bits | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/191.%20Number%20of%201%20Bits)|
 | 198 | House Robber | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/198.%20House%20Robber)|
@@ -168,8 +170,9 @@ solutions main(logic)
 | 213 | House Robber II | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/213.%20House%20Robber%20II)|
 | 215 | Kth Largest Element in an Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/215.%20Kth%20Largest%20Element%20in%20an%20Array)|
 | 217 | Contains Duplicate | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/217.%20Contains%20Duplicate)|
+| 221 | Maximal Square | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/221.%20Maximal%20Square)|
 | 222 | Count Complete Tree Nodes | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/222.%20Count%20Complete%20Tree%20Nodes)|
-| 226 | Invert Binary Tree | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/226.%20Invert%20Binary%20Tree)|
+| 226 | Invert Binary Tree | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeMaximal SquareetCode/tree/main/226.%20Invert%20Binary%20Tree)|
 | 230 | Kth Smallest Element in a BST | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/230.%20Kth%20Smallest%20Element%20in%20a%20BST)|
 | 231 | Power of Two | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/231.%20Power%20of%20Two)|
 | 232 | Implement Queue using Stacks | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/232.%20Implement%20Queue%20using%20Stacks)|
@@ -186,6 +189,7 @@ solutions main(logic)
 | 268 | Missing Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/268.%20Missing%20Number)|
 | 273 | Integer to English Words | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/273.%20Integer%20to%20English%20Words)|
 | 278 | First Bad Version | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/278.%20First%20Bad%20Version)|
+| 279 | Perfect Squares | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/279.%20Perfect%20Squares)|
 | 283 | Move Zeroes | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/290.%20Word%20Pattern/README.md)|
 | 290 | Word Pattern | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/283.%20Move%20Zeroes)|
 | 292 | Nim Game | 🟢 | [solution]()|  
@@ -201,6 +205,7 @@ solutions main(logic)
 | 352 | Data Stream as Disjoint Intervals | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/352.%20Data%20Stream%20as%20Disjoint%20Intervals)|
 | 367 | Valid Perfect Square | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/367.%20Valid%20Perfect%20Square)|
 | 374 | Guess Number Higher or Lower | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/374.%20Guess%20Number%20Higher%20or%20Lower)|
+| 382 | Linked List Random Node | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/382.%20Linked%20List%20Random%20Node)|
 | 383 | Ransom Note | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/383.%20Ransom%20Note)|
 | 387 | First Unique Character in a String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/387.%20First%20Unique%20Character%20in%20a%20String%202%205)|
 | 390 | Elimination Game | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/390.%20Elimination%20Game)|
@@ -238,6 +243,7 @@ solutions main(logic)
 | 617 | Merge Two Binary Trees | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/617.%20Merge%20Two%20Binary%20Trees)|
 | 622 | Design Circular Queue | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/622.%20Design%20Circular%20Queue)|
 | 632 | Smallest Range Covering Elements from K Lists | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists)|
+| 633 | Sum of Square Numbers | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/633.%20Sum%20of%20Square%20Numbers)|
 | 637 | Average of Levels in Binary Tree | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/637.%20Average%20of%20Levels%20in%20Binary%20Tree)|
 | 652 | Find Duplicate Subtrees | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/652.%20Find%20Duplicate%20Subtrees)|
 | 653 | Two Sum IV - Input is a BST | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST)|
@@ -274,6 +280,7 @@ solutions main(logic)
 | 944 | Delete Columns to Make Sorted | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/944.%20Delete%20Columns%20to%20Make%20Sorted)|
 | 953 | Verifying an Alien Dictionary | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/953.%20Verifying%20an%20Alien%20Dictionary)|
 | 958 | Check Completeness of a Binary Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/958.%20Check%20Completeness%20of%20a%20Binary%20Tree)|
+| 983 | Minimum Cost For Tickets | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/983.%20Minimum%20Cost%20For%20Tickets)|
 | 974 | Subarray Sums Divisible by K | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/974.%20Subarray%20Sums%20Divisible%20by%20K)|
 | 977 | Squares of a Sorted Array | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/977.%20Squares%20of%20a%20Sorted%20Array)|
 | 980 | Unique Paths III | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/980.%20Unique%20Paths%20III)|
@@ -303,12 +310,14 @@ solutions main(logic)
 | 1342 | Number of Steps to Reduce a Number to Zero | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)|
 | 1373 | Maximum Sum BST in Binary Tree | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree)|
 | 1382 | Balance a Binary Search Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1382.%20Balance%20a%20Binary%20Search%20Tree)|
+| 1388 | Pizza With 3n Slices | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1388.%20Pizza%20With%203n%20Slices)|
 | 1443 | Minimum Time to Collect All Apples in a Tree | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree/README.md)|
 | 1448 | Count Good Nodes in Binary Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)|
 | 1470 | Shuffle the Array | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1470.%20Shuffle%20the%20Array)|
 | 1487 | Making File Names Unique | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1487.%20Making%20File%20Names%20Unique)|
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary)|
 | 1512 | Number of Good Pairs | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1512.%20Number%20of%20Good%20Pairs)|
+| 1518 | Water Bottles | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1518.%20Water%20Bottles)|
 | 1519 | Number of Nodes in the Sub-Tree With the Same Label | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label)|
 | 1523 | Count Odd Numbers in an Interval Range | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range)|
 | 1539 | Kth Missing Positive Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1539.%20Kth%20Missing%20Positive%20Number)|
@@ -348,6 +357,8 @@ solutions main(logic)
 | 2444 | Count Subarrays With Fixed Bounds | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/2444.%20Count%20Subarrays%20With%20Fixed%20Bounds/README.md)|
 | 2469 | Convert the Temperature | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2469.%20Convert%20the%20Temperature)|
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level)|
+| 2477 | Minimum Fuel Cost to Report to the Capital | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2477.%20Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital)|
+| 2481 | Minimum Cuts to Divide a Circle | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2481.%20Minimum%20Cuts%20to%20Divide%20a%20Circle)|
 | 2477 | Minimum Fuel Cost to Report to the Capital | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2477.%20Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital)|
 | 2485 | Find the Pivot Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2485.%20Find%20the%20Pivot%20Integer)|
 | 2486 | Append Characters to String to Make Subsequence | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2486.%20Append%20Characters%20to%20String%20to%20Make%20Subsequence)|
