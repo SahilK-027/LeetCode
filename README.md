@@ -51,8 +51,8 @@ solutions main(logic)
 ```
 
 | # | Problem Title | Difficulty | Solution |
-|---|---------------|:------------:|----------|
-| 1 | Two Sum       | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1.%20Two_Sum) |
+|:---:|:---------------| :------------:| :----------:|
+| 1 | Two Sum| 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1.%20Two_Sum) |
 | 2 | Add Two Numbers | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2.%20Add%20Two%20Numbers) |
 | 3 | Longest Substring Without Repeating Characters | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters) |
 | 4 | Median of Two Sorted Arrays | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/4.%20Median%20of%20Two%20Sorted%20Arrays) |
@@ -172,7 +172,7 @@ solutions main(logic)
 | 217 | Contains Duplicate | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/217.%20Contains%20Duplicate)|
 | 221 | Maximal Square | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/221.%20Maximal%20Square)|
 | 222 | Count Complete Tree Nodes | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/222.%20Count%20Complete%20Tree%20Nodes)|
-| 226 | Invert Binary Tree | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeMaximal SquareetCode/tree/main/226.%20Invert%20Binary%20Tree)|
+| 226 | Invert Binary Tree | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/226.%20Invert%20Binary%20Tree)|
 | 230 | Kth Smallest Element in a BST | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/230.%20Kth%20Smallest%20Element%20in%20a%20BST)|
 | 231 | Power of Two | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/231.%20Power%20of%20Two)|
 | 232 | Implement Queue using Stacks | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/232.%20Implement%20Queue%20using%20Stacks)|
