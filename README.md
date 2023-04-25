@@ -262,6 +262,7 @@ solutions main(logic)
 | 700 | Search in a Binary Search Tree | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/700.%20Search%20in%20a%20Binary%20Search%20Tree)|
 | 701 | Insert into a Binary Search Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/701.%20Insert%20into%20a%20Binary%20Search%20Tree)|
 | 704 | Binary Search | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/704.%20Binary%20Search)|
+| 724 | Find Pivot Index | 🟢 | [solution](LEAVE THIS SPACE EMPTY)| 
 | 733 | Flood Fill | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/733.%20Flood%20Fill)|
 | 739 | Daily Temperatures | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/739.%20Daily%20Temperatures)|
 | 740 | Delete and Earn | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/740.%20Delete%20and%20Earn)|
@@ -306,6 +307,7 @@ solutions main(logic)
 | 1009 | Complement of Base 10 Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1009.%20Complement%20of%20Base%2010%20Integer)|
 | 1020 | Number of Enclaves | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1020.%20Number%20of%20Enclaves)|
 | 1026 | Maximum Difference Between Node and Ancestor | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor)|
+| 1029 | Two City Scheduling | 🟡 |[solution](LEAVE THIS SPACE EMPTY)| 
 | 1038 | Binary Search Tree to Greater Sum Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1038.%20Binary%20Search%20Tree%https://github.com/SahilK-027/LeetCode/tree/main/989.%20Add%20to%20Array-Form%20of%20Integer20to%20Greater%20Sum%20Tree)|
 | 1039 | Minimum Score Triangulation of Polygon | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1039.%20Minimum%20Score%20Triangulation%20of%20Polygon)|
 | 1047 | Remove All Adjacent Duplicates In String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|
