@@ -359,6 +359,7 @@ solutions main(logic)
 | 1472 | Design Browser History | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1472.%20Design%20Browser%20History)|
 | 1487 | Making File Names Unique | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1487.%20Making%20File%20Names%20Unique)|
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary)|
+| 1492 | The kth Factor of n | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1492.%20The%20kth%20Factor%20of%20n)|
 | 1498 | Number of Subsequences That Satisfy the Given Sum Condition | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition)|
 | 1512 | Number of Good Pairs | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1512.%20Number%20of%20Good%20Pairs)|
 | 1518 | Water Bottles | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1518.%20Water%20Bottles)|
