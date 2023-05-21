@@ -107,6 +107,8 @@ solutions main(logic)
 | 74 | Search a 2D Matrix | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/74.%20Search%20a%202D%20Matrix)|
 | 75 | Sort Colors | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/75.%20Sort%20Colors) |
 | 78 | Subsets | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/78.%20Subsets)|
+| 79 | Word Search | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/79.%20Word%20Search)|
+| 80 | Remove Duplicates from Sorted Array II | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)|
 | 82 | Remove Duplicates from Sorted List II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II)|
 | 83 | Remove Duplicates from Sorted List | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/83.%20Remove%20Duplicates%20from%20Sorted%20List)|
 | 84 | Largest Rectangle in Histogram | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/84.%20Largest%20Rectangle%20in%20Histogram)|
@@ -165,6 +167,7 @@ solutions main(logic)
 | 198 | House Robber | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/198.%20House%20Robber)|
 | 191 | Number of 1 Bits | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/191.%20Number%20of%201%20Bits)|
 | 199 | Binary Tree Right Side View | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/199.%20Binary%20Tree%20Right%20Side%20View)|
+| 200 | Number of Islands | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/200.%20Number%20of%20Islands)|
 | 202 | Happy Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/202.%20Happy%20Number)|
 | 203 | Remove Linked List Elements | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/203.%20Remove%20Linked%20List%20Elements)|
 | 204 | Count Primes | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/204.%20Count%20Primes)|
@@ -191,6 +194,7 @@ solutions main(logic)
 | 240 | Search a 2D Matrix II | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/240.%20Search%20a%202D%20Matrix%20II)|
 | 242 | Valid Anagram | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/242.%20Valid%20Anagram)|
 | 257 | Binary Tree Paths | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/257.%20Binary%20Tree%20Paths)|
+| 258 | Add Digits | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/258.%20Add%20Digits)|
 | 260 | Single Number III | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/260.%20Single%20Number%20III)|
 | 263 | Ugly Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/263.%20Ugly%20Number)|
 | 268 | Missing Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/268.%20Missing%20Number)|
@@ -204,6 +208,7 @@ solutions main(logic)
 | 301 | Remove Invalid Parentheses | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/301.%20Remove%20Invalid%20Parentheses)|
 | 309 | Best Time to Buy and Sell Stock with Cooldown | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)|
 | 301 | Remove Invalid Parentheses | 🔴 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/301.%20Remove%20Invalid%20Parentheses)|
+| 319 | Bulb Switcher | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/319.%20Bulb%20Switcher)|
 | 322 | Coin Change | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/322.%20Coin%20Change) |
 | 326 | Power of Three | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/326.%20Power%20of%20Three)|
 | 328 | Odd Even Linked List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/328.%20Odd%20Even%20Linked%20List)|
@@ -221,6 +226,7 @@ solutions main(logic)
 | 392 | Is Subsequence | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/392.%20Is%20Subsequence)|
 | 394 | Decode String | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/394.%20Decode%20String)|
 | 404 | Sum of Left Leaves | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/404.%20Sum%20of%20Left%20Leaves)|
+| 416 | Partition Equal Subset Sum | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/416.%20Partition%20Equal%20Subset%20Sum)|
 | 427 | Construct Quad Tree | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/427.%20Construct%20Quad%20Tree)|
 | 437 | Path Sum III | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/437.%20Path%20Sum%20III)|
 | 438 | Find All Anagrams in a String | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/438.%20Find%20All%20Anagrams%20in%20a%20String)|
@@ -254,6 +260,7 @@ solutions main(logic)
 | 632 | Smallest Range Covering Elements from K Lists | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists)|
 | 633 | Sum of Square Numbers | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/633.%20Sum%20of%20Square%20Numbers)|
 | 637 | Average of Levels in Binary Tree | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/637.%20Average%20of%20Levels%20in%20Binary%20Tree)|
+| 649 | Dota2 Senate | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/649.%20Dota2%20Senate)|
 | 652 | Find Duplicate Subtrees | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/652.%20Find%20Duplicate%20Subtrees)|
 | 653 | Two Sum IV - Input is a BST | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST)|
 | 654 | Maximum Binary Tree | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/654.%20Maximum%20Binary%20Tree)|
@@ -267,13 +274,16 @@ solutions main(logic)
 | 739 | Daily Temperatures | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/739.%20Daily%20Temperatures)|
 | 740 | Delete and Earn | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/740.%20Delete%20and%20Earn)|
 | 743 | Network Delay Time | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/743.%20Network%20Delay%20Time)|
+| 748 | Shortest Completing Word | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/748.%20Shortest%20Completing%20Word)|
 | 779 | K-th Symbol In Grammar | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/779.%20K-th%20Symbol%20in%20Grammar)|
 | 783 | Minimum Distance Between BST Nodes | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/783.%20Minimum%20Distance%20Between%20BST%20Nodes)|
+| 785 | Is Graph Bipartite? | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/785.%20Is%20Graph%20Bipartite%3F)|
 | 787 | Cheapest Flights Within K Stops | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/787.%20Cheapest%20Flights%20Within%20K%20Stops)|
 | 790 | Domino and Tromino Tiling | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/790.%20Domino%20and%20Tromino%20Tiling)|
 | 797 | All Paths From Source to Target | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/797.%20All%20Paths%20From%20Source%20to%20Target)|
 | 832 | Flipping an Image | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/832.%20Flipping%20an%20Image)|
 | 834 | Sum of Distances in Tree | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/834.%20Sum%20of%20Distances%20in%20Tree)|
+| 839 | Similar String Groups | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/839.%20Similar%20String%20Groups)|
 | 841 | Keys and Rooms | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/841.%20Keys%20and%20Rooms)|
 | 844 | Backspace String Compare | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/844.%20Backspace%20String%20Compare)|
 | 852 | Peak Index in a Mountain Array | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/852.%20Peak%20Index%20in%20a%20Mountain%20Array)|
@@ -281,6 +291,7 @@ solutions main(logic)
 | 872 | Leaf-Similar Trees | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/872.%20Leaf-Similar%20Trees)|
 | 875 | Koko Eating Bananas | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/875.%20Koko%20Eating%20Bananas)|
 | 876 | Middle of the Linked List | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/876.%20Middle%20of%20the%20Linked%20List)|
+| 879 | Profitable Schemes | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/879.%20Profitable%20Schemes)|
 | 881 | Boats to Save People | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/881.%20Boats%20to%20Save%20People)|
 | 886 | Possible Bipartition | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/886.%20Possible%20Bipartition)|
 | 904 | Fruit Into Baskets | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/904.%20Fruit%20Into%20Baskets)|
@@ -299,6 +310,7 @@ solutions main(logic)
 | 977 | Squares of a Sorted Array | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/977.%20Squares%20of%20a%20Sorted%20Array)|
 | 980 | Unique Paths III | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/980.%20Unique%20Paths%20III)|
 | 989 | Add to Array-Form of Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/989.%20Add%20to%20Array-Form%20of%20Integer)|
+| 994 | Rotting Oranges | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/994.%20Rotting%20Oranges)|
 | 997 | Find the Town Judge | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/997.%20Find%20the%20Town%20Judge)|
 | 1003 | Check If Word Is Valid After Substitutions | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions)|
 | 1008 | Construct Binary Search Tree from Preorder Traversal | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)|
@@ -308,8 +320,10 @@ solutions main(logic)
 | 1020 | Number of Enclaves | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1020.%20Number%20of%20Enclaves)|
 | 1026 | Maximum Difference Between Node and Ancestor | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor)|
 | 1029 | Two City Scheduling | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/1029.%20Two%20City%20Scheduling)| 
+| 1035 | Uncrossed Lines | 🟡 |[solution](https://github.com/SahilK-027/LeetCode/tree/main/1035.%20Uncrossed%20Lines)|
 | 1038 | Binary Search Tree to Greater Sum Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1038.%20Binary%20Search%20Tree%https://github.com/SahilK-027/LeetCode/tree/main/989.%20Add%20to%20Array-Form%20of%20Integer20to%20Greater%20Sum%20Tree)|
 | 1039 | Minimum Score Triangulation of Polygon | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1039.%20Minimum%20Score%20Triangulation%20of%20Polygon)|
+| 1046 | Last Stone Weight | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1046.%20Last%20Stone%20Weight)|
 | 1047 | Remove All Adjacent Duplicates In String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|
 | 1061 | Lexicographically Smallest Equivalent String | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1061.%20Lexicographically%20Smallest%20Equivalent%20String)|
 | 1047 | Remove All Adjacent Duplicates In String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|
@@ -322,6 +336,7 @@ solutions main(logic)
 | 1254 | Number of Closed Islands | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1254.%20Number%20of%20Closed%20Islands)|
 | 1281 | Subtract the Product and Sum of Digits of an Integer | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)|
 | 1290 | Convert Binary Number in a Linked List to Integer | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)|
+| 1312 | Minimum Insertion Steps to Make a String Palindrome | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome)|
 | 1319 | Number of Operations to Make Network Connected | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected)|
 | 1325 | Delete Leaves With a Given Value | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1325.%20Delete%20Leaves%20With%20a%20Given%20Value)|
 | 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance)|
@@ -332,7 +347,9 @@ solutions main(logic)
 | 1373 | Maximum Sum BST in Binary Tree | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree)|
 | 1382 | Balance a Binary Search Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1382.%20Balance%20a%20Binary%20Search%20Tree)|
 | 1388 | Pizza With 3n Slices | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1388.%20Pizza%20With%203n%20Slices)|
+| 1390 | Four Divisors | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1390.%20Four%20Divisors)|
 | 1402 | Reducing Dishes | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1402.%20Reducing%20Dishes)|
+| 1416 | Restore The Array | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1416.%20Restore%20The%20Array)|
 | 1431 | Kids With the Greatest Number of Candies | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies)|
 | 1443 | Minimum Time to Collect All Apples in a Tree | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree)|
 | 1444 | Number of Ways of Cutting a Pizza | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1444.%20Number%20of%20Ways%20of%20Cutting%20a%20Pizza)|
@@ -342,13 +359,16 @@ solutions main(logic)
 | 1472 | Design Browser History | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1472.%20Design%20Browser%20History)|
 | 1487 | Making File Names Unique | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1487.%20Making%20File%20Names%20Unique)|
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary)|
+| 1498 | Number of Subsequences That Satisfy the Given Sum Condition | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition)|
 | 1512 | Number of Good Pairs | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1512.%20Number%20of%20Good%20Pairs)|
 | 1518 | Water Bottles | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1518.%20Water%20Bottles)|
 | 1519 | Number of Nodes in the Sub-Tree With the Same Label | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label)|
 | 1523 | Count Odd Numbers in an Interval Range | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range)|
 | 1539 | Kth Missing Positive Number | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1539.%20Kth%20Missing%20Positive%20Number)|
 | 1544 | Make The String Great | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1544.%20Make%20The%20String%20Great)|
+| 1557 | Minimum Number of Vertices to Reach All Nodes | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes)|
 | 1572 | Matrix Diagonal Sum | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1572.%20Matrix%20Diagonal%20Sum)|
+| 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable)|
 | 1626 | Best Team With No Conflicts | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1626.%20Best%20Team%20With%20No%20Conflicts)|
 | 1639 | Number of Ways to Form a Target String Given a Dictionary | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1639.%20Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary)|
 | 1655 | Distribute Repeating Integers | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1655.%20Distribute%20Repeating%20Integers)|
@@ -356,12 +376,15 @@ solutions main(logic)
 | 1662 | Check If Two String Arrays are Equivalent | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent)|
 | 1672 | Richest Customer Wealth | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1672.%20Richest%20Customer%20Wealth)|
 | 1691 | Maximum Height by Stacking Cuboids | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1691.%20Maximum%20Height%20by%20Stacking%20Cuboids)|
+| 1697 | Checking Existence of Edge Length Limited Paths | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1697.%20Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths)|
 | 1704 | Determine if String Halves Are Alike | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1704.%20Determine%20if%20String%20Halves%20Are%20Alike)|
+| 1721 | Swapping Nodes in a Linked List | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List)|
 | 1723 | Find Minimum Time to Finish All Jobs | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs)|
 | 1752 | Check if Array Is Sorted and Rotated | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated)|
 | 1768 | Merge Strings Alternately | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1768.%20Merge%20Strings%20Alternately)|
 | 1791 | Find Center of Star Graph | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1791.%20Find%20Center%20of%20Star%20Graph)|
 | 1823 | Find the Winner of the Circular Game | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)|
+| 1822 | Sign of the Product of an Array | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1822.%20Sign%20of%20the%20Product%20of%20an%20Array)|
 | 1824 | Minimum Sideway Jumps | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1824.%20Minimum%20Sideway%20Jumps)|
 | 1833 | Maximum Ice Cream Bars | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1833.%20Maximum%20Ice%20Cream%20Bars)|
 | 1834 | Single-Threaded CPU | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1834.%20Single-Threaded%20CPU)|
@@ -371,11 +394,15 @@ solutions main(logic)
 | 1910 | Remove All Occurrences of a Substring | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring)|
 | 1962 | Remove Stones to Minimize the Total | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total)|
 | 1963 | Minimum Number of Swaps to Make the String Balanced | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced)|
+| 1964 | Find the Longest Valid Obstacle Course at Each Position | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1964.%20Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position)|
 | 1971 | Find if Path Exists in Graph | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/1971.%20Find%20if%20Path%20Exists%20in%20Graph)|
 | 2095 | Delete the Middle Node of a Linked List | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List)|
+| 2130 | Maximum Twin Sum of a Linked List | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List)|
+| 2140 | Solving Questions With Brainpower | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2140.%20Solving%20Questions%20With%20Brainpower)|
 | 2169 | Count Operations to Obtain Zero | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2169.%20Count%20Operations%20to%20Obtain%20Zero)|
 | 2181 | Merge Nodes in Between Zeros | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/2181.%20Merge%20Nodes%20in%20Between%20Zeros)|
 | 2187 | Minimum Time to Complete Trips | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2187.%20Minimum%20Time%20to%20Complete%20Trips)|
+| 2215 | Find the Difference of Two Arrays | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2215.%20Find%20the%20Difference%20of%20Two%20Arrays)|
 | 2225 | Find Players With Zero or One Losses | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses)|
 | 2244 | Minimum Rounds to Complete All Tasks | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks)|
 | 2246 | Longest Path With Different Adjacent Characters | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters)|
@@ -385,6 +412,7 @@ solutions main(logic)
 | 2300 | Successful Pairs of Spells and Potions | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions)|
 | 2306 | Naming a Company | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2306.%20Naming%20a%20Company)|
 | 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2316.%20Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph)|
+| 2336 | Smallest Number in Infinite Set | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2336.%20Smallest%20Number%20in%20Infinite%20Set)|
 | 2348 | Number of Zero-Filled Subarrays | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2348.%20Number%20of%20Zero-Filled%20Subarrays)|
 | 2359 | Find Closest Node to Given Two Nodes | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes)|
 | 2360 | Longest Cycle in a Graph | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2360.%20Longest%20Cycle%20in%20a%20Graph)|
@@ -396,6 +424,7 @@ solutions main(logic)
 | 2421 | Number of Good Paths | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2421.%20Number%20of%20Good%20Paths)|
 | 2439 | Minimize Maximum of Array | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2439.%20Minimize%20Maximum%20of%20Array)|
 | 2444 | Count Subarrays With Fixed Bounds | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/2444.%20Count%20Subarrays%20With%20Fixed%20Bounds/README.md)|
+| 2466 | Count Ways To Build Good Strings | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2466.%20Count%20Ways%20To%20Build%20Good%20Strings)|
 | 2469 | Convert the Temperature | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2469.%20Convert%20the%20Temperature)|
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level)|
 | 2477 | Minimum Fuel Cost to Report to the Capital | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2477.%20Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital)|
@@ -417,6 +446,7 @@ solutions main(logic)
 | 2521 | Distinct Prime Factors of Product of Array | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2521.%20Distinct%20Prime%20Factors%20of%20Product%20of%20Array)|
 | 2523 | Closest Prime Numbers in Range | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2523.%20Closest%20Prime%20Numbers%20in%20Range)|
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array)|
+| 2540 | Minimum Common Value | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2540.%20Minimum%20Common%20Value)|
 | 2544 | Alternating Digit Sum | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2544.%20Alternating%20Digit%20Sum)|
 | 2545 | Sort the Students by Their Kth Score | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score)|
 | 2549 | Count Distinct Numbers on Board | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2549.%20Count%20Distinct%20Numbers%20on%20Board)|
@@ -428,6 +458,10 @@ solutions main(logic)
 | 2563 | Count the Number of Fair Pairs | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2563.%20Count%20the%20Number%20of%20Fair%20Pairs)|
 | 2570 | Merge Two 2D Arrays by Summing Values | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2570.%20Merge%20Two%202D%20Arrays%20by%20Summing%20Values)|
 | 2620 | Counter | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2620.%20Counter) |
+| 2665 | Counter II | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2665.%20Counter%20II) |
+| 2667 | Create Hello World Function | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2667.%20Create%20Hello%20World%20Function) |
+| 2696 | Minimum String Length After Removing Substrings | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2696.%20Minimum%20String%20Length%20After%20Removing%20Substrings) |
+| 2697 | Lexicographically Smallest Palindrome | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/2697.%20Lexicographically%20Smallest%20Palindrome) |
 
 ## Contributors
 
