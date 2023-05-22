@@ -139,6 +139,7 @@ solutions main(logic)
 | 121 | Best Time to Buy and Sell Stock | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
 | 124 | Binary Tree Maximum Path Sum | 🔴 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum)|
 | 129 | Sum Root to Leaf Numbers | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/129.%20Sum%20Root%20to%20Leaf%20Numbers)|
+| 130 | Surrounded Regions | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/130.%20Surrounded%20Regions)|
 | 131 | Palindrome Partitioning | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/131.%20Palindrome%20Partitioning)|
 | 133 | Clone Graph | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/133.%20Clone%20Graph)|
 | 134 | Gas Station | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/134.%20Gas%20Station)|
@@ -215,6 +216,7 @@ solutions main(logic)
 | 338 | Counting Bits | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/338.%20Counting%20Bits)|
 | 342 | Power of Four | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/342.%20Power%20of%20Four)|
 | 344 | Reverse String | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/344.%20Reverse%20String)|
+| 347 | Top K Frequent Elements | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/347.%20Top%20K%20Frequent%20Elements)|
 | 352 | Data Stream as Disjoint Intervals | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/352.%20Data%20Stream%20as%20Disjoint%20Intervals)|
 | 354 | Russian Doll Envelopes | 🔴 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/354.%20Russian%20Doll%20Envelopes)|
 | 367 | Valid Perfect Square | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/367.%20Valid%20Perfect%20Square)|
@@ -249,6 +251,7 @@ solutions main(logic)
 | 515 | Find Largest Value in Each Tree Row | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)|
 | 520 | Detect Capital | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/520.%20Detect%20Capital)|
 | 538 | Convert BST to Greater Tree | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/538.%20Convert%20BST%20to%20Greater%20Tree)|
+| 542 | 01 Matrix | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/542.%2001%20Matrix)|
 | 543 | Diameter of Binary Tree | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/543.%20Diameter%20of%20Binary%20Tree)|
 | 547 | Number of Provinces | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/547.%20Number%20of%20Provinces)|
 | 557 | Reverse Words in a String III | 🟢 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/557.%20Reverse%20Words%20in%20a%20String%20III)|
@@ -300,6 +303,7 @@ solutions main(logic)
 | 921 | Minimum Add to Make Parentheses Valid | 🟡 | [solution](https://github.com/Competitive-Programming-SK027/LeetCode/tree/main/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid)|
 | 926 | Flip String to Monotone Increasing | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/926.%20Flip%20String%20to%20Monotone%20Increasing)|
 | 931 | Minimum Falling Path Sum | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/931.%20Minimum%20Falling%20Path%20Sum)|
+| 934 | Shortest Bridge | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/934.%20Shortest%20Bridge)|
 | 938 | Range Sum of BST | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/blob/main/938.%20Range%20Sum%20of%20BST)|
 | 944 | Delete Columns to Make Sorted | 🟢 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/944.%20Delete%20Columns%20to%20Make%20Sorted)|
 | 946 | Validate Stack Sequences | 🟡 | [solution](https://github.com/SahilK-027/LeetCode/tree/main/946.%20Validate%20Stack%20Sequences)|
