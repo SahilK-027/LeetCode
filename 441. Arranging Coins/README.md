@@ -1,4 +1,4 @@
-#  Intersection of Two Arrays II
+# Arranging Coins
 
 ## Description
 
