@@ -1,29 +1,84 @@
 /*
-23 ms
-8.9 MB
+3 ms
+5.9 MB
 
 TC : O(N)
-SC : O(N)
+SC : O(1)
 */
 
 /**
  * @author : SahilK-027
- * @brief : Iteration
+ * @brief : SWITCH
 */
 
 class Solution {
 public:
     int romanToInt(string s) {
-        int n = s.length()-1;
-        int ans=0;
-        unordered_map<char,int> map={ { 'I' , 1 },{ 'V' , 5 },
-        { 'X' , 10 }, { 'L' , 50 }, { 'C' , 100 }, { 'D' , 500 },
-        { 'M' , 1000 } };
-        for(int i = n ; i>=0;i--){
-           if (map[s[i]] < map[s[i + 1]])
-                ans -= map[s[i]]; //For IV case we cannot add 1+5 we have to subtract
-            else
-                ans += map[s[i]];
+        int ans = 0;
+        for(int i = 0 ; i < s.length(); i++){
+            char ch = s[i];
+            switch(ch){
+                case 'V':
+                    ans += 5;
+                    break; 
+                case 'L':
+                    ans += 50;
+                    break; 
+                case 'D':
+                    ans += 500;
+                    break; 
+                case 'M':
+                    ans += 1000;
+                    break; 
+                case 'I':
+                    if(i < s.length()-1 && (s[i+1] == 'V' || s[i+1] == 'X')){
+                        char next_ch = s[i+1];
+                        if(next_ch == 'V'){
+                            ans += 4;
+                            i++;
+                        }
+                        else if(next_ch == 'X'){
+                            ans += 9;
+                            i++;
+                        }
+                    }
+                    else {
+                        ans += 1;
+                    }
+                    break; 
+                case 'X':
+                    if(i < s.length()-1 && (s[i+1] == 'L' || s[i+1] == 'C')){
+                        char next_ch = s[i+1];
+                        if(next_ch == 'L' ){
+                            ans += 40;
+                            i++;
+                        }
+                        else if(next_ch == 'C'){
+                            ans += 90;
+                            i++;
+                        }
+                    }
+                    else {
+                        ans += 10;
+                    }
+                    break; 
+                case 'C':
+                    if(i < s.length()-1 && (s[i+1] == 'D' || s[i+1] == 'M')){
+                        char next_ch = s[i+1];
+                        if(next_ch == 'D'){
+                            ans += 400;
+                            i++;
+                        }
+                        else if(next_ch == 'M'){
+                            ans += 900;
+                            i++;
+                        }
+                    }
+                    else {
+                        ans += 100;
+                    }
+                    break; 
+            }
         }
         return ans;
     }
